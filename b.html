@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Belodore</title>
+    <link rel="stylesheet" type="text/css" href="./styles/desktop.css"/>
+    <link rel="stylesheet" type="text/css" href="./styles/fonts.css" />
+    <link rel="icon" type="image/x-icon" href="./images/favicon-16x16.png">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+</head>
+<body>
+<div id="container">
+    <div id="content">
+        <div id="logo-container">
+            <img id="logo" src="images/Belodore-com-logo-home-300x50.png" alt="Belodore logo">
+        </div>
+        <h1 id="heading">Choose your country</h1>
+        <div id="shop-select-form">
+            <select id="shop-select">
+                <option name="" value="">-- Choose country --</option>
+                <option name="srb" value="https://belodore.rs/sr">SRBIJA / SERBIA</option>
+                <option name="cro" value="https://belodore.hr/hr">HRVATSKA / CROATIA</option>
+                <option name="mne" value="https://belodore.me/me">CRNA GORA / MONTENEGRO</option>
+                <option name="hun" value="https://belodore.hu/hu">MAGYARORSZáG / HUNGARY</option>
+                <option name="mac" value="./pages/macedonia/macedonia_mk.html">SEVERNA MAKEDONIJA / NORTH MACEDONIA</option>
+                <option name="bul" value="./pages/bulgaria/bulgaria_bg.html">BŬLGARIYA / BULGARIA</option>
+                <option name="bih" value="./pages/bosnia/bosnia_bih.html">Bosna i Hercegovina / Bosnia and Herzegovina</option>
+            </select>
+            <input type="button" id="form-submit" value=""/>
+        </div>
+        <!--<div id="tmp-note">Make Your Wish!</div>-->
+    </div>
+</div>
+</body>
+</html>
+<script>
+    document.getElementById('form-submit').onclick = function(){
+        var url = document.getElementById('shop-select').value;
+        if(url !== ""){
+            document.getElementById('shop-select').style = "border:unset;";
+            window.open(
+                url,
+                '_self'
+            );
+        }else{
+            document.getElementById('shop-select').style = "border:3px solid #f00;";
+        }
+    };
+</script>
