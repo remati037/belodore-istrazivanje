@@ -3,3 +3,6 @@
 *.pdf
 ~$*
 .claude/settings.local.json
+
+# Snimljene HTML stranice (scraping ostaci)
+*.html
