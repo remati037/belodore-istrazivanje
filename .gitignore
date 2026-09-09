@@ -1,6 +1,8 @@
 .DS_Store
 *.docx
 *.pdf
+# ...osim finalnih isporuka klijentu
+!03-isporuke/*.pdf
 ~$*
 .claude/settings.local.json
 

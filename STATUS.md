@@ -1,6 +1,6 @@
 # KLAUDS · status projekta
 
-Poslednje ažuriranje: 28.08.2026 (završene Faze 2A, 2B, 3, 4, 5, 6 i **7**)
+Poslednje ažuriranje: 08.09.2026 (završene Faze 2A–9; ispravke iz Faze 8 unete u FINALNI IZVEŠTAJ, ali NE i u pojedinačne fazne dokumente)
 Rok isporuke klijentu: **11.09.2026** · cilj: isporuka 09–10.09.
 
 ## Faze
@@ -15,8 +15,8 @@ Rok isporuke klijentu: **11.09.2026** · cilj: isporuka 09–10.09.
 | 5 | Globalni benchmark + praznina | ✅ završeno | `01-faze/klauds_faza5_benchmark.md` |
 | 6 | Ton i jezik brenda (posle faze 3) | ✅ završeno | `01-faze/klauds_faza6_ton.md` |
 | 7 | Strateška sinteza (posle 2A–6) | ✅ završeno | `01-faze/klauds_faza7_sinteza.md` |
-| 8 | Kontrola kvaliteta / fact-check | ⬜ nije počelo | `01-faze/klauds_faza8_qa.md` |
-| 9 | Finalni izveštaj + prezentacija | ⬜ nije počelo | `03-isporuke/KLAUDS_finalni_izvestaj.md` |
+| 8 | Kontrola kvaliteta / fact-check | ✅ završeno | `01-faze/klauds_faza8_qa.md` |
+| 9 | Finalni izveštaj + prezentacija + email | ✅ završeno | `03-isporuke/KLAUDS_analiza_trzista_i_preporuke.md` (v2) |
 
 Legenda: ⬜ nije počelo · 🟡 u toku · ✅ završeno
 
@@ -545,47 +545,207 @@ loyalty sa dva brojača (25) · budžet za testere (27). Sve je u dokumentu ozna
 - **Brojevi pratilaca na IG/TikTok** — preuzeti iz pretrage, treba ručno proveriti i
   dodati engagement rate (koristi se u Fazi 3 i 6).
 
+## Urađeno u Fazi 8 (08.09.2026)
+
+- Pun dokument: `01-faze/klauds_faza8_qa.md`
+- **22 tvrdnje visokog rizika provereno nezavisno**; **svih 322 jedinstvenih linkova iz
+  registra izvora mašinski provereno** na HTTP status; prekontrolisani svi izvedeni računi
+  (kursne konverzije, procentualne razlike, kontrastni odnosi palete, matematika korpe)
+
+### ⚠️⚠️ TRI GREŠKE KOJE MENJAJU ZAKLJUČKE
+
+1. **Populacija 15–19 u Srbiji nije 497.864 nego 330.698.** Uzeta je kolona **popisa iz 2002**
+   umesto procene RZS za 2024; uz to je tačan broj (330.698) pogrešno predstavljen kao „urbani
+   deo" te populacije — konstrukcija koja u izvoru ne postoji. **Primarna ciljna grupa je
+   precenjena za ~51%.** Pogađa F2A (izvor #29, rezime), F2B (4.2, rezime 10), F3 i F7.
+   *Izračun „73,5% ciljne grupe je van Beogradskog regiona" PREŽIVLJAVA* — on je iz školske
+   statistike, koja je potvrđena do poslednje cifre.
+2. **NORMAL ne ulazi u Hrvatsku i Sloveniju — to je Action** (holandski lanac). NORMAL je u
+   Rumuniju ušao **30.09.2026** (Mega Mall Bukurešt, 275 m²), ne u aprilu. Pogađa F5 (nalaz 17,
+   1.11), F7 i ovaj fajl.
+3. **Tabela persona ne može da proizvede AOV od 45–60 €.** Iz udela prometa i korpi u F7 tačka 1
+   matematički sledi **AOV ≈ 34 €** — 26% ispod donje granice cilja koji isti dokument tvrdi na
+   tri mesta.
+
+### Ostale netačne tvrdnje
+
+4. **Raiffeisen iRačun je 18+**, ne „besplatan za sve ispod 18". Erste je **16+**. Time je
+   finansijski rez ciljne grupe **15 / 16–19**, ne 15–16 / 17–19 — a F2B protivreči sam sebi
+   na razmaku od tri reda. F7 persona A („od 17. godine") je netačna.
+5. **Studija o zrnima kafe** objavljena je u ***Perceptual and Motor Skills* (2011, 112(2),
+   536–538)**, ne u *Chemosensory Perception*; n=63, autori je zovu eksplorativnom; treća grana
+   (limun, 86%) je izostavljena. Oznaka **VISOKA → SREDNJA**, „dokazano netačno" → „nije potvrđeno".
+6. **Sephora Srbija ima 66 brendova** (F2A i F7 kažu 55, F2B kaže 67). **Rhode nije u zvaničnom
+   katalogu** iako F2A tvrdi da je uveden.
+7. **Sabrina Carpenter: obe cene postoje.** 2.699 RSD (23,0 €) za četiri od pet EdP varijanti;
+   3.999 RSD (34,1 €) samo za Lemon Pie. Dokumenti od 2B nadalje citiraju samo skuplju i na njoj
+   grade tvrdnju „gotovo tačno ciljani artikal".
+8. **BBW „24% udela kod tinejdžerki" nije potvrđeno** ni u jednom javnom izvoru — briše se.
+   Potvrđeno je samo „#1 mirisni brend" i „#3 trgovac sa 7%".
+9. **Piper Sandler podaci su iz 49. talasa (april 2025).** U 50. talasu (jesen 2025) tinejdžerska
+   beauty potrošnja **pala je 2% god/god na 336 USD**, a BBW je izašao iz prve trojke trgovaca.
+
+### ⚑ NOVI NALAZ KOJI ISTRAŽIVANJE NIJE ZABELEŽILO
+
+**dm već prodaje Sabrina Carpenter body mist 236 ml po 1.249–1.499 RSD (10,6–12,8 €)** — tačno
+cenovnu tačku „drugog artikla u korpi" na kojoj cela KLAUDS AOV logika stoji, sa celebrity
+brendom koji je označen kao najjači role model ciljne grupe, u objektu u prizemlju iste zgrade.
+**Mist zid od 18% prometa ne ulazi u praznu kategoriju.** Ulazi u F2A (7.1), F3 i F7 (t. 8 i 10).
+
+### Šta je POTVRĐENO i ne dira se
+
+- **Zakon o oglašavanju — sve četiri odredbe doslovno tačne** (čl. 21 st. 6–7, čl. 21 st. 1
+  tač. 2, čl. 23 st. 6, čl. 25 st. 3, čl. 10 tač. 4) + kazne 300.000–2.000.000 RSD.
+  **Najpouzdanija sekcija u celom projektu.**
+- **Paleta: kontrastni odnosi nezavisno preračunati i sva tri tačna** (5,28 / 11,34 / 16,2).
+  Pantone „Cloud Dancer" #F0EEE9 ✓. **Boja se NE menja.**
+- **DP Lux poseduje Almaru** (6 objekata u Srbiji, uključujući TC Galerija; grupno 8) ✓
+- **Srednje obrazovanje 2025/2026 — svaka cifra tačna** (225.639 / 491 škola / regionalna podela)
+- **Galerija: trambolin park + Cineplexx 9 sala i IMAX** ✓ · **Gold Apple „mini" 600 m²** ✓
+- **Prosečna neto zarada jun 2026: 120.401 / medijalna 94.281** ✓ · **notino.rs i dalje ne postoji** ✓
+- **Piper Sandler april 2025: momci 88→127 USD (+44%), e.l.f. 35%, BBW #1 miris** ✓
+- **Sinteza ne izmišlja** — nasumična provera 15 referenci tipa *(F3, nalaz 2)* nije našla
+  nijedno pojačavanje tvrdnje u prenosu.
+
+### Provera linkova: 322 URL-a
+
+259 OK · 43× HTTP 403 (anti-bot, rade u browseru) · 8× 429 (uglavnom Google Trends) ·
+**6 stvarno mrtvih** — buro247.rs (nosi isporuku „Top 10 influensera"), nativemedia.rs (Viber
+90%), nbcnews.com (smellmaxxing), cosmeticsdesign-europe (P.Louise, 410 Gone),
+cosmeticsdesign-asia (MINISO, 410 Gone), retaildive BBW Gingham+ (520).
+
+### Konzistentnost — 12 nađenih protivrečnosti
+
+AOV vs. persone · Almara u F2A nije ispravljena · Sephora 55 vs. 67 · Sabrina Carpenter 23 € vs.
+34,1 € · dva različita para brojeva o potrošnji momaka · finansijski rez 15–16/17–19 ·
+grupe brendova 10/8/8 vs. 10/9/7 · **34 otvorena pitanja, ne 28, uz duplirani broj 28** ·
+Sephora loyalty „globalno" vs. „S. Amerika" · 1,7 vs. ≥2,0 artikla po korpi ·
+Golden Apple / Gold Apple · metodološki prekid u tabeli cena F2A (red 20).
+
+### Pouzdanost — 4 nedosledne oznake + 6 preporuka bez ograde na mestu preporuke
+
+Nedosledno: zrna kafe (VISOKA→SREDNJA) · Hurlbert & Ling / boja (VISOKA→SREDNJA, **boja se ne
+menja**, težina se prenosi na audit konkurencije koji JESTE merenje) · „parfem 10× traženiji"
+(VISOKA za smer, SREDNJA za faktor) · F2A tabela 4.2 red 20.
+Bez ograde na mestu preporuke: **mist zid 18%/20%** · udeli persona u tački 6 · podela nabavnog
+budžeta 15/55/30 · **cela tabela strukture police u F7 tačka 10** · frekvencija 6–10× godišnje ·
+cilj „≥ 2,0 artikla po korpi".
+
+### Pokrivenost checkliste: 12 od 15 zeleno, 3 žuto, 1 crveno
+
+🔴 **Stavka 4 „Top 10 influensera"** je isporučena kao **10 tipova, ne 10 imena**; tip 8 nema
+nijedno ime, tipovi 3 i 10 nemaju; nijedno ime nije verifikovano; jedan izvor je mrtav.
+🟡 Persone (brojke protivrečne) · cenovno pozicioniranje (stoji na precenjenoj populaciji) ·
+predlog brendova (numeracija se razlikuje između F2B i F7).
+
+### Rupe koje su bile obavezne PRE Faze 8 — nijedna nije zatvorena
+
+Mišljenje advokata ❌ · korpus srpskih TikTok komentara (~4 h) ❌ · boje Lilly i Belodore
+(~30 min) ❌ · domaća bazna linija za UGC (~2 h) ❌ · ispravka F2A/Almara ❌ (ide sada).
+**Tri od pet se zatvaraju za ~7 sati rada.**
+
+## Urađeno u Fazi 9 (08.09.2026)
+
+**Izlazi:**
+- `03-isporuke/KLAUDS_finalni_izvestaj.pdf` — **68 strana A4**, brendiran, sa koricama,
+  sadržajem sa brojevima strana, brojevima strana u futeru i PDF bookmarkovima
+- `03-isporuke/KLAUDS_prezentacija.html` — prezentacija za prolaz i slanje klijentu, 13 slajdova
+- `03-isporuke/KLAUDS_finalni_izvestaj.md` — **2.419 redova**, 9 poglavlja + 3 priloga
+- `03-isporuke/KLAUDS_prezentacija_slajdovi.md` — **12 slajdova** + 7 rezervnih, sa govornim
+  napomenama i predlogom vizuala po slajdu
+- `05-klijent/propratni-email.md` — pun tekst + kraća varijanta samo za vlasnika
+- `03-isporuke/checklist-isporuka.md` — **prođena i čekirana**
+
+> Napomena (09.09.2026): svi v1 izlazi ove faze — `KLAUDS_finalni_izvestaj.md/.pdf`,
+> `KLAUDS_prezentacija.html`, `KLAUDS_prezentacija_slajdovi.md` — **obrisani su** pošto ih je
+> zamenila verzija 2.0. Zapis ispod je istorijski.
+
+### ⚠️ Ključna odluka ove faze
+
+**Faza 9 je startovala iako ispravke iz Faze 8 nisu bile unete u dokumente faza.**
+Umesto čekanja, **finalni izveštaj je napisan direktno na ispravljenim podacima** — Faza 8 je
+tretirana kao autoritativna nad ranijim fazama. U izveštaju stoji izričita napomena da
+**u slučaju razlike važi finalni izveštaj**, a **Prilog B popisuje svih 18 ispravki** radi
+sledljivosti.
+
+**Posledica:** `01-faze/*` i dalje nose stare brojeve. **Ako se ti dokumenti šalju klijentu ili
+koriste kao osnova za dalji rad, prvo uneti ispravke iz `01-faze/klauds_faza8_qa.md`, sekcija 6**
+(procena 4–6 h). Finalni izveštaj je samodovoljan i ne zavisi od toga.
+
+### Šta je konkretno ispravljeno u finalnom izveštaju
+
+| Ispravka | Bilo → Jeste |
+|---|---|
+| Populacija 15–19 | 497.864 → **330.698** (RZS 2024; 497.864 je popis 2002) |
+| Almara | konkurent → **klijentov sopstveni lanac**; u Galeriji **tri nezavisne parfimerije + dva DP Lux objekta** |
+| AOV | „45–60 €" na tri mesta → **~40 € start, 45–60 € cilj druge godine**; artikala po korpi **1,8 → 2,0** |
+| NORMAL | „HR i SI 2026, RO april" → **Action za HR/SI**; NORMAL u RO **30.09.2026**, format 275–380 m² |
+| Erste / Raiffeisen | rez 15–16 / 17–19 → **15 / 16–19** (Erste 16+, Raiffeisen 18+) |
+| Sephora RS | 55 / 67 brendova → **66**; Rhode **nije u katalogu** (SREDNJA) |
+| Sabrina Carpenter | „34,1 €" → **23,0 € za 4 od 5 varijanti**; + **dm mist 10,6–12,8 €** |
+| BBW | „24% udela" → **briše se**; ostaje #1 mirisni brend, #3 trgovac 7% |
+| Piper Sandler | „poslednji talas" → **49. talas (april 2025)**, uz ogradu o 50. talasu (−2%, BBW ispao iz top 3) |
+| Zrna kafe | *Chemosensory Perception*, „dokazano netačno", VISOKA → ***Perceptual and Motor Skills* 112(2)**, „nije potvrđeno", **SREDNJA** |
+| TikTok Shop | 10 zemalja → **11** (dodat Portugal); Srbija i dalje nije ni najavljena |
+| Otvorena pitanja | 28 / 34 → **35** (broj 28 je bio dupliran); niz prenumerisan |
+| Grupe brendova | 10/8/8 → **10/9/7** (e.l.f. u ekskluzive), ukupno 26 |
+| Gold Apple | „Golden Apple" → **Gold Apple** uz fusnotu |
+| Oznake pouzdanosti | mist zid, struktura police, udeli persona, 15/55/30, frekvencija 6–10×, cilj 2,0 — **svi dobili ogradu NA MESTU preporuke** |
+
+### Stanje checkliste posle Faze 9
+
+**15 od 15 stavki isporučeno.** Sekcija C: **9 zeleno, 3 žuto, 1 nezatvoreno.**
+
+| Ostaje otvoreno | Šta treba |
+|---|---|
+| 🟡 **Isporuka 4 — influenseri** | Isporučeno kao **10 tipova**, ne 10 verifikovanih imena. Ograničenje je **eksplicitno napisano** u izveštaju i u emailu. **~3 h ručnog rada** zatvara |
+| 🟡 **Ispravke u faznim dokumentima** | Nisu unete u `01-faze/` (4–6 h) |
+| 🟡 **6 mrtvih linkova** | Popisani u **Prilogu C** sa zamenama; nijedan nalaz ne pada |
+| ✅ **Konverzija u PDF** | **urađeno** — 68 strana, prelomi provereni |
+
 ## Sledeći korak
 
-`/clear` pa **`/faza-8`** (kontrola kvaliteta i fact-check). Svi ulazi za nju postoje —
-faze 2A–7 su završene.
+1. ~~Konvertovati izveštaj u PDF~~ — **urađeno 08.09.2026.** `KLAUDS_finalni_izvestaj.pdf`,
+   68 strana, bez praznih strana i bez osamljenih redova tabela.
+2. **Poslati klijentu** — tekst je gotov u `05-klijent/propratni-email.md`. Uz izveštaj ide i
+   `03-isporuke/input-za-dizajn-tim.md` kao zaseban prilog.
+3. **Zakazati prezentaciju** — 12 slajdova, ~60 min (35–40 izlaganje + 20 na osam odluka).
+   **Tražiti da prisustvuju i nabavka i projektant enterijera** — pola pitanja je iz njihovog
+   domena.
+4. **Paralelno, ako ima vremena do sastanka** (~7 h ukupno): korpus srpskih TikTok komentara
+   (4 h), boje Lilly i Belodore (30 min), bazna linija za UGC (2 h). Sve tri su popisane u
+   poglavlju 9.2 izveštaja kao otvorene — bolje ih zatvoriti nego objasniti.
 
-**Pre Faze 8 obavezno zatvoriti (nepromenjeno, sve je i dalje otvoreno):**
+## ⚠️ Šta i dalje blokira klijenta, ne nas
 
-1. **⚠️ Mišljenje advokata na tri stavke:** čl. 25 st. 3 (obećanje društvene prednosti),
-   čl. 23 st. 6 (pridev uz cenu), i **status žiga „PROBAJ"**. Jedina stavka u projektu koja
-   može zaustaviti kampanju.
-2. **Ručno prikupljanje korpusa srpskih TikTok komentara (~4 sata)** — otvoreno od Faze 3.
-3. **Ručno očitavanje boja Lilly i Belodore (~30 min)** — ulazi u brief za dizajn tim.
-4. **Domaća bazna linija za UGC (~2 sata)** — oznake lokacije za Sephoru, Lilly i dm u Galeriji.
-5. **Ispravka Faze 2A** — Almara je klijentov sopstveni lanac, ne konkurencija.
+**35 otvorenih pitanja**, od kojih **osam menja sadržaj isporuka**: Almara (6) · ekskluzive (23) ·
+mirisno zoniranje ⏱ (19) · boja (22) · foto-kabina (17) · istinitost rang liste (18) · loyalty
+sa dva brojača (25) · budžet za testere (27).
 
-**⚠️ Najveće usko grlo više nije istraživanje nego klijent.** 28 pitanja čeka odgovor, od kojih
-8 direktno menja sadržaj Faze 7. Preporuka: poslati ih kao jedan paket **pre** Faze 9, jer
-finalni izveštaj inače nosi osam nerazrešenih [ČEKA ODGOVOR] mesta.
+**Uz njih, jedna stavka koja može zaustaviti kampanju: ⚖️ mišljenje advokata** — čl. 25 st. 3,
+čl. 23 st. 6 Zakona o oglašavanju, i status žiga „PROBAJ".
 
-**Preostaje i `/faza-1`** (validacija brifa) — nije blokirajuća, ali je jedini formalni kanal
-kroz koji su otvorena pitanja trebalo da odu klijentu.
+**Preostaje i `/faza-1`** (validacija brifa) — nije blokirajuća; njena jedina neispunjena
+funkcija (slanje paketa pitanja klijentu) sada je pokrivena poglavljem 9.3 izveštaja i
+propratnim emailom.
 
-## Stanje checkliste isporuka (`03-isporuke/checklist-isporuka.md`)
+## Verzija 2.0 (09.09.2026) · prerada po feedbacku pre slanja
 
-**Svih 15 stavki iz sekcije A i B sada ima pokriće u Fazi 7.** Ostaje sekcija C (kvalitet pre
-isporuke) — zavisi od Faze 8 i Faze 9.
+**Novi klijentski dokument:** `03-isporuke/KLAUDS_analiza_trzista_i_preporuke.md` + `.pdf`
+(60 strana) + `03-isporuke/slike/` (6 grafika). Stari `KLAUDS_finalni_izvestaj.md/.pdf` i
+stara prezentacija obrisani 09.09.2026 — v1 se ne šalje. Nova prezentacija: `KLAUDS_prezentacija_slajdovi_v2.md`.
+Propratni email prepisan. Registar izvora dopunjen na 403 stavke (336 do 403 su iz Faze 8 i
+iz ove prerade).
 
-| Stavka | Gde je isporučena |
-|---|---|
-| 1. Postavka vizuelnog identiteta | F7 sekcija 9 + **`03-isporuke/input-za-dizajn-tim.md`** |
-| 2. Pozicioniranje na tržištu | F7 sekcija 0 (pozicija u jednoj rečenici) + sekcija 8 |
-| 3. Do/don't principi brenda | F7 sekcija 7 |
-| 4. Top 10 influensera | F7 sekcija 3 |
-| 5. Top 10 aktivacija | F7 sekcija 4 |
-| 6. Launch smernice | F7 sekcija 5 |
-| 7. 3–4 customer persone | F7 sekcija 1 (četiri) |
-| 8. Content pillars | F7 sekcija 2 (pet) |
-| 9. Customer journey + top 5 interaktivnih | F7 sekcija 6 |
-| 10. Preporuka cenovnog pozicioniranja | F7 sekcija 8 |
-| 11. Predlog brendova | F7 sekcija 10 (26 brendova) |
-| 12. THE KLAUDS MOMENT | F7 sekcija 6 (elementi 1, 2, 3) |
-| 13. 3–5 reči brenda | F7 sekcija 9 / dizajn brief sekcija 3 |
-| 14. Boja/paleta | F7 sekcija 9 / dizajn brief sekcija 1 |
-| 15. Motiv za učlanjenje u loyalty | F7 sekcija 4 (aktivacija 10) + sekcija 6 (korak 9) |
+**Sve što treba znati pre slanja je u `INTERNO_pre-slanja-v2.md`** (tabela izmena, šta nije
+moglo, podaci za proveru, osam odluka, otvorena pitanja, šta još poslati).
+
+Ključno: uklonjen interni QA materijal i tehničke rupe iz klijentske verzije; 73,5% i
+76,8%/100% preformulisani iz primarnih RZS izvora; pouzeće se NE ukida zakonom; Lilly dobio
+sopstvenu sekciju (lista brendova, cene, događaji); 10 konkretnih influensera sa brojevima sa
+profila; NORMAL datumi ispravljeni (30.09. i 02.10.2026 su najava); plan lansiranja u dva
+scenarija; osam odluka na jednoj strani.
+
+**Otvoreno posle v2:** uzorak TikTok komentara (4 h), boje sa logotipa (30 min), UGC bazna
+linija (2 h), cene u objektima (2 h), obilazak (2 h), verifikacija kreatora (3 h + alat),
+HTML prezentacija (2 h), fazni dokumenti u `01-faze/` i dalje nose stare greške.

@@ -45,8 +45,8 @@ ZADATAK:
    šta je ostalo otvoreno, predlog termina za prezentaciju).
 
 IZLAZ (tri odvojena fajla):
-- `03-isporuke/KLAUDS_finalni_izvestaj.md`
-- `03-isporuke/KLAUDS_prezentacija_slajdovi.md`
+- `03-isporuke/KLAUDS_analiza_trzista_i_preporuke.md`
+- `03-isporuke/KLAUDS_prezentacija_slajdovi_v2.md`
 - `05-klijent/propratni-email.md`
 - Ažuriraj `STATUS.md` i prođi kroz `03-isporuke/checklist-isporuka.md` (čekiraj stavke).
 

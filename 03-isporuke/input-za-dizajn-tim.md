@@ -122,7 +122,7 @@ Izmereno direktnim čitanjem sajtova i `theme-color` oznaka, **28.08.2026**. Ovo
 | **ALMARA** | zlatna | **#E7B447** | ⚠️ **Klijentov sopstveni lanac**, objekat u istoj zgradi |
 | **Gold Apple** *(uzor)* | kiselo-zelena | **#DCFF00** | ⚠️ **NE KOPIRATI** — vidi 5.2 |
 
-**Rupa u podacima:** boje **Lilly** i **Belodore** nisu izmerene — `lilly.rs` vraća HTTP 403,
+**Rupa u podacima:** boje **Lilly** i **Belodore** nisu izmerene ovim metodom (sajtovi ne izlažu boje za automatsko čitanje),
 `belodore.com` ne izlaže CSS. Potrebno **ručno očitavanje sa logotipa ili kese (fotografija +
 pipeta), ~30 minuta.** Isto važi za Victoria's Secret, Lush, The Body Shop, MAC i Kiko u Galeriji.
 
@@ -415,7 +415,7 @@ mladu publiku, jaku boju, prepoznatljiv enterijer.
 | # | Otvoreno | Ko rešava |
 |---|---|---|
 | 1 | **Prihvata li klijent ljubičasto-indigo (#5B3DF5)** kao boju brenda | **Klijent** — odluka pre projekta enterijera i pre naručivanja ambalaže |
-| 2 | **Boje Lilly i Belodore nisu izmerene** (403 / CSS nije izložen) | Ručno očitavanje sa kese, ~30 min |
+| 2 | **Boje Lilly i Belodore nisu izmerene** (sajtovi ne izlažu boje za automatsko čitanje) | Ručno očitavanje sa kese, ~30 min |
 | 3 | **Izgled Violet-a pod rasvetom lokala** (2700 K → pomeranje ka smeđoj) | Test **pre projekta rasvete** |
 | 4 | **Status žiga za reč „PROBAJ"** | **Advokat** |
 | 5 | **Mišljenje advokata na čl. 25 st. 3 i čl. 23 st. 6** | **Advokat** — jedina stavka koja može zaustaviti kampanju |
