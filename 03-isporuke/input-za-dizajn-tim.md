@@ -133,27 +133,35 @@ pipeta), ~30 minuta.** Isto važi za Victoria's Secret, Lush, The Body Shop, MAC
 
 # 3. PET REČI BRENDA
 
-> # PROBAJ · MOJE · KOMPLIMENT · ISKRENO · NOVO
+> # PROBAJ · TOP 10 · MIRIŠE NA · KOLEKCIJA · NOVO
 
-**Nijedna nije parfemski termin — namerno.** Srpski kupac miris opisuje **referencama, ne notama**:
+**Nijedna nije parfemski termin, namerno.** Srpski kupac miris opisuje **referencama, ne notama**:
 od 20 najčešćih autocomplete predloga za „parfem koji miriše na…" samo tri su prave note (vanila,
 jasmin, tamjan); ostalih **17 su čisto, more, sapun, puder, bebi puder, kokos, leto, krema za
 sunčanje.**
 
-Zajedno čine rečenicu koja je istovremeno **tok kroz radnju** i **tok kroz loyalty**:
+**Pravilo po kome su birane, važno za dizajn:** svaka reč mora da izdrži dva mesta istovremeno,
+**natpis u radnji** i **rubriku u sadržaju**. Reč koja je samo osećanje ili vrednost pada na tom
+testu, jer se ne može staviti ni na policu ni u kalendar objava. Zato se sve četiri reči osim
+NOVO prevode direktno u fizički element prostora.
 
-> *probaj → nađi svoje → primete te → bez trika → i sledeći put ima novo.*
+Zajedno čine rečenicu koja je istovremeno **tok kroz radnju** i **tok kroz sadržaj**:
 
-| Reč | Zašto baš ona | Dokaz |
-|---|---|---|
-| **PROBAJ** | **Izmereno je prva.** Prvi predlog za `probaj` u srpskom je `probaj parfem` — ispred svih drugih značenja te reči | Google Suggest, `hl=sr&gl=rs` |
-| **MOJE** | Gen Z gradi **kolekciju od 5–12 mirisa**, ne signature scent; `moja kolekcija parfema` je izmerena fraza | Google Suggest + istraživanje kategorije |
-| **KOMPLIMENT** | Dominantan trigger kupovine nije miris nego **reakcija okoline**. Doslovan regionalni jezik: „Stalno mi govore da mirišem dobro" | Analiza jezika kupaca |
-| **ISKRENO** | U kategoriji u kojoj je „−50%" default, a domaći trgovci pišu akcijski letak, **iskrenost je jedina slobodna pozicija** | Audit doslovnih objava trgovaca |
-| **NOVO** | Domaći retail obrazac je gotov: `novo u dm`, `novo u lidlu`, `novo u ikei` → **„NOVO U KLAUDS"** | Google Suggest |
+> *probaj → vidi šta je prvo → reci to svojim rečima → gradi kolekciju → svake nedelje ima novo.*
 
-> ⚠️ **PRE upotrebe reči PROBAJ u sloganu, imenu programa ili domenu — OBAVEZNA PROVERA ŽIGA.**
+| Reč | Element u prostoru | Zašto baš ona | Dokaz |
+|---|---|---|---|
+| **PROBAJ** | test stanica, discovery set, mini formati | **Izmereno je prva.** Prvi predlog za `probaj` u srpskom je `probaj parfem`, ispred svih drugih značenja te reči | Google Suggest, `hl=sr&gl=rs` |
+| **TOP 10** | zid sa rang listom, dve odvojene liste (devojke / momci), glasačka kutija | Momci traže **rang listu umesto preporuke**; rang lista kao princip organizacije robe proverena je na skali kod @cosme TOKYO | Analiza jezika kupaca + @cosme TOKYO |
+| **MIRIŠE NA** | oznake na polici jezikom kupca („na čisto", „na kokos"), umesto mirisne piramide | Direktno izlazi iz 17 od 20 autocomplete predloga koji nisu note nego reference | Google Suggest |
+| **KOLEKCIJA** | više formata istog mirisa, layering sto, loyalty kartica | Gen Z gradi **kolekciju od 5 do 12 mirisa**, ne signature scent; `moja kolekcija parfema` je izmerena fraza | Google Suggest + istraživanje kategorije |
+| **NOVO** | nedeljna polica sa novim proizvodima, uvek na istom mestu | Domaći retail obrazac je gotov: `novo u dm`, `novo u lidlu`, `novo u ikei` → **„NOVO U KLAUDS"** | Google Suggest |
+
+> ⚠️ **PRE upotrebe reči PROBAJ u sloganu, imenu programa ili domenu: OBAVEZNA PROVERA ŽIGA.**
 > U autocomplete-u postoji trag `probaj parfem.rs`.
+
+> ⚠️ **TOP 10 kao natpis obavezuje.** Lista mora biti istinita i onda kada ne odgovara nabavci.
+> Ako klijent to ne prihvati (Odluka 6), reč izlazi iz seta i ne stavlja se na zid.
 
 ## 3.1 Reči koje se NE SMEJU vezati za brend
 

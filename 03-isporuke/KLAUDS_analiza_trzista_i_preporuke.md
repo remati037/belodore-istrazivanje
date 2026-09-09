@@ -1,7 +1,7 @@
 # KLAUDS · Analiza tržišta i strateške preporuke
 
 **Naručilac:** DP Lux Group · **Izradio:** VladsDigital
-**Datum:** 09.09.2026 · **Verzija:** 2.0 · **Status dokumenta:** verzija za donošenje ključnih odluka
+**Datum:** 09.09.2026 · **Verzija:** 2.1 · **Status dokumenta:** verzija za donošenje ključnih odluka
 **Namena:** menadžment i vlasnik kompanije, interni dokument
 **Period analize:** 28.08.2026 do 09.09.2026 · **Kurs u celom dokumentu:** 1 EUR = 117,34 RSD (28.08.2026)
 
@@ -21,12 +21,12 @@
 | **2** | **Executive summary** | Jedna strana koja stoji samostalno |
 | 3 | Metodologija i ograničenja | Kako je rađeno, kako su građene rang liste, šta brojevi mogu a šta ne |
 | 4 | Tržište i konkurencija | Veličina tržišta, ključni igrači, TC Galerija, ko još dolazi |
-| 5 | Ciljna grupa i ponašanje kupaca | Veličina grupe, online kupovina i plaćanje, TikTok, šest nalaza, persone |
+| 5 | Ciljna grupa i ponašanje kupaca | Veličina grupe, online kupovina i plaćanje, TikTok, sedam nalaza, persone |
 | 6 | Cenovno pozicioniranje | Izmerene cene, preporučena pozicija, korpa kao scenario |
 | 7 | Preporuka asortimana | 26 preporučenih brendova i asortimanskih grupa, struktura police, odnos prema ALMARI |
 | 8 | Iskustvo u prodavnici | Put kupca kroz radnju, KLAUDS MOMENT, pet interaktivnih elemenata |
 | 9 | Pozicioniranje, ton i komunikacija brenda | Pravilo jezika, pravni okvir, paleta, pet reči, stubovi sadržaja |
-| 10 | Influenceri i aktivacije | Konkretni kandidati, tipovi kreatora, deset aktivacija |
+| 10 | Influenseri i aktivacije | Konkretni kandidati, tipovi kreatora, deset aktivacija |
 | 11 | Plan lansiranja | Šta je realno do oktobra 2026, šta ide u drugu fazu, rokovi odluka |
 | 12 | Ključne metrike | Dvanaest pokazatelja za prvih 90 dana |
 | **13** | **Osam odluka koje klijent treba da donese** | Jedna strana |
@@ -34,7 +34,7 @@
 | 15 | Izvori i metodološki prilozi | Ključni izvori po tvrdnji, Google Trends napomena, pravni okvir, pun registar |
 
 **Gde su isporuke koje je klijent tražio:** pozicioniranje **2 i 6** · persone **5.8** · content
-pillars **9.7** · influenceri **10.1** · aktivacije **10.3** · launch smernice **11** · put kupca i
+pillars **9.7** · influenseri **10.1** · aktivacije **10.3** · launch smernice **11** · put kupca i
 pet interaktivnih elemenata **8.2 i 8.5** · KLAUDS MOMENT **8.4** · cenovno pozicioniranje **6** ·
 brendovi **7** · do/don't **9.8** · paleta i vizuelni identitet **9.5 i 9.6** · pet reči **9.6** ·
 loyalty motiv **8.7**.
@@ -128,8 +128,10 @@ kartica je realna od 16 godina uz roditelja, a pouzeće ostaje najčešći nači
 i asortimanski pritisak dolazi iz dm-a, Lilly-ja, Zare i Victoria's Secreta, svi u istoj zgradi.
 dm i Lilly već drže Lattafa, Armaf, Afnan, Sabrina Carpenter, Sol de Janeiro i Ariana Grande, a
 dm prodaje Sabrina Carpenter body mist po 10,6 do 12,8 €, tačno na cenovnoj tački drugog artikla
-u korpi. Najveći unutrašnji rizik je ALMARA, lanac DP Lux Group u istoj zgradi, koja drži
-najtraženije orijentalne brendove.
+u korpi. ALMARA, sopstveni lanac DP Lux Group u istoj zgradi, nije konkurent KLAUDS-u: to je
+prodavnica jedne kategorije za ljubitelje orijentalnih mirisa, sa oko 13.000 pratilaca na
+Instagramu i bez web shopa. Preklapanje postoji, ali je usko: tri do četiri kuće (Lattafa,
+Armaf, Afnan) i rešava se razlikom u formatu, ne izbacivanjem tih kuća iz asortimana.
 
 **Cenovno pozicioniranje.** Preporuka je treća pozicija između „pristupačno" i „slično
 Sephora": pristupačni trendovski brend, cenovno bliže dm-u i Lilly-ju, iskustveno bliže Sephori.
@@ -146,8 +148,10 @@ Body Works, e.l.f., Phlur, Billie Eilish, Glossier) su prva stavka plana, a KLAU
 što se nosi kući i što se pamti. Nijedan predloženi element nije ekran.
 
 **Najveći rizici.** (1) Otvaranje u oktobru 2026. bez ekskluziva i bez mehanike probanja daje
-radnju koja se ne razlikuje od dm-a i Lilly-ja. (2) Kanibalizacija ALMARE ako se drže isti
-artikli u istim formatima. (3) Zakon o oglašavanju ograničava komunikaciju prema maloletnicima
+radnju koja se ne razlikuje od dm-a i Lilly-ja. (2) Cenovni pritisak dm-a i Lilly-ja na drugom
+artiklu u korpi: obe mreže već drže mist i mini formate u zoni 10 do 15 €, a Lilly od
+decembra 2025. prodaje i domaće mistove Atine i Nike Tošić po 1.529 do 1.699 RSD.
+(3) Zakon o oglašavanju ograničava komunikaciju prema maloletnicima
 (obećanje društvene prednosti, pridev uz cenu, poziv na kupovinu); bez advokata kampanja može
 stati. (4) Kupovna moć ciljne grupe nije izmerena ni u jednom domaćem izvoru; svi iznosi korpe
 su scenariji.
@@ -273,7 +277,7 @@ kao potvrda smera.
 | **Sephora Srbija** | 2,42 milijarde RSD [izv. 2] | 5 i više | 66 brendova u katalogu [izv. 11] | srednje-premium do premium | Globalne ekskluzive (Sol de Janeiro, Fenty, Huda), prestiž | Srednja. Referentni okvir za iskustvo, ne za cenu |
 | **Jasmin** | uporediv prihod nije bio dostupan u istoj bazi | mreža u Srbiji [izv. 10] | 88 brendova [izv. 8] | premium; 37 do 53% skuplji od Sephore na istim artiklima *(SREDNJA)* [izv. 9] | Najveći domaći nalog na TikToku (196.000 pratilaca) [izv. 33] | Srednja. Klasična parfimerija; sa mladima već komunicira |
 | **Belodore** (DP Lux Group) | 466 miliona RSD [izv. 1] | 17 objekata, 7 zemalja [izv. 53] | 71 niche brend [izv. 7] | premium niche, ulazna cena 80 i više € | Ekskluzivni niche portfolio | Niska po asortimanu; deli loyalty sistem (8.7) |
-| **ALMARA** (DP Lux Group) | nije javno | 6 u Srbiji, uključujući Galeriju [izv. 57] | orijentalni brendovi: Afnan, Ajmal, Al Haramain, Armaf, Khadlaj, Lattafa, Paris Corner, Swiss Arabian, Zimaya [izv. 56] | 25 do 60 € | Sopstveni uvoz najtraženijih brendova | **Visoka.** Rizik interne kanibalizacije (4.4) |
+| **ALMARA** (DP Lux Group) | nije javno | 6 u Srbiji, uključujući Galeriju [izv. 57] | orijentalni brendovi: Afnan, Ajmal, Al Haramain, Armaf, Khadlaj, Lattafa, Paris Corner, Swiss Arabian, Zimaya [izv. 56] | 25 do 60 € | Sopstveni uvoz najtraženijih brendova | **Srednja.** Usko preklapanje asortimana, drugačija publika (4.4) |
 | **Zara** | nije relevantno | mreža | sopstveni parfemi | 7,6 do 18 € [izv. 19, 20] | Cena i modni kontekst | Srednja do visoka za ulaznu cenovnu tačku |
 | **Victoria's Secret** | nije relevantno | Galerija | body mist | 25 do 30 € [izv. 17, 18] | Prepoznatljivost mist kategorije | Srednja; objekat u istoj zgradi |
 | **Onlajn diskonteri** (Mirris i sl.) | nije javno | onlajn | dizajnerski i viralni | 30 do 50% ispod parfimerija [izv. 16] | Cena | Srednja; kupac ih proverava telefonom u radnji |
@@ -347,7 +351,7 @@ razlikovati tri stvari:
 |---|---|---|
 | **Eksterna konkurencija** | Sephora, Jasmin, DURŌ (parfimerije) · Lilly, dm (drogerije) · Zara, Victoria's Secret (miris u fashion retailu) · Kiko, MAC, Lush, The Body Shop, Kiehl's, L'Occitane (beauty) | Cenovni i asortimanski pritisak; dm, Lilly, Zara i Victoria's Secret drže tačno cenovnu zonu u kojoj KLAUDS gradi korpu |
 | **Drugi formati DP Lux Group** | Belodore (360 m²) [izv. 6] · ALMARA | Sopstveni objekti u istoj zgradi; dele nabavku i loyalty sistem |
-| **Rizik interne kanibalizacije** | ALMARA drži Lattafa, Armaf, Afnan, Khadlaj, Zimaya, Paris Corner: brendove koji su po svim analiziranim signalima najtraženiji u Srbiji [izv. 56] | Ako KLAUDS drži iste artikle u istim formatima, dva sopstvena objekta na 30 metara prodaju istu robu (Odluka 1). Belodore je čist niche i sa realnim KLAUDS asortimanom se skoro ne dodiruje |
+| **Preklapanje unutar grupe** | ALMARA drži Lattafa, Armaf, Afnan, Khadlaj, Zimaya, Paris Corner: brendove koji su po svim analiziranim signalima najtraženiji u Srbiji [izv. 56] | Usko preklapanje na tri do četiri kuće; rešava se razlikom u formatu, ne izbacivanjem tih kuća (Odluka 1). Belodore je čist niche i sa realnim KLAUDS asortimanom se skoro ne dodiruje |
 
 **Najozbiljniji spoljni konkurent po ceni i asortimanu je dm, a po navici kupovine Lilly, ne
 Sephora.** dm u Srbiji već drži Lattafa, Armaf, Afnan, Khadlaj, Zimaya, Paris Corner, Ajmal i
@@ -367,7 +371,29 @@ treba da se takmiči isključivo cenom.**
 
 **Nabavka je prednost, ne problem.** DP Lux Group distribuira više od 90 brendova na 15
 tržišta [izv. 54]. To je najveća pojedinačna prednost koncepta i istovremeno izvor pitanja o
-kanibalizaciji.
+preklapanju asortimana.
+
+> **Koliko je ALMARA stvarno rizik za KLAUDS: manje nego što izgleda.** Pitanje smo posebno
+> proverili, jer od odgovora zavisi Odluka 1. Četiri nalaza:
+>
+> 1. **Različita publika i različit koncept.** ALMARA je prodavnica jedne kategorije. Sama sebe
+>    opisuje kao „Essence of the Orient" i obraća se ljubiteljima orijentalnih mirisa
+>    [izv. 404, 405]. KLAUDS je multibrend koncept sa 20% beauty asortimana i ciljnom grupom
+>    15 do 19. Kupac koji dolazi po Lattafa Yara zato što ju je video na TikToku nije isti kupac
+>    koji ulazi u ALMARU zbog orijentalne parfimerije *(SREDNJA, procena iz koncepta i tona
+>    komunikacije, nije mereno na kupcima)*.
+> 2. **Preklapanje je usko.** Od 26 brendova predloženih u poglavlju 7, sa ALMAROM se poklapaju
+>    tri do četiri (Lattafa, Armaf, Afnan i uslovno Khadlaj) *(VISOKA)*.
+> 3. **Ista roba je ionako svuda.** Te iste kuće drži dm u 136 objekata i Lilly u više od 200
+>    [izv. 13, 372]. Ako ih KLAUDS ne uzme, ALMARA time ništa ne dobija: kupac ih kupi u
+>    drogeriji, po nižoj ceni *(VISOKA)*.
+> 4. **ALMARA ne pokriva kanale kojima KLAUDS ide.** Nema web shop, sajt je informativan
+>    [izv. 404], a na Instagramu ima oko 13.000 pratilaca naspram 356.000 kod dm-a i 355.000
+>    kod Lilly-ja [izv. 36, 38, 406] *(SREDNJA za broj pratilaca, očitan iz agregatora)*.
+>
+> **Zaključak.** ALMARA je pitanje discipline u nabavci, a ne pretnja konceptu. Opcija B iz
+> Odluke 1 (iste kuće, drugi formati: mini, setovi, mist, discovery) rešava preklapanje bez
+> gubitka najtraženije robe. Ozbiljan pritisak na KLAUDS dolazi spolja, od dm-a i Lilly-ja.
 
 **Lokacija u zgradi.** Galerija ima trambolin park od 800 m² i bioskop sa devet sala i jedinom
 IMAX salom u Srbiji [izv. 190, 342]. Tinejdžeri u toj zgradi već postoje kao tok; KLAUDS ne
@@ -587,7 +613,7 @@ nemerljiv za maloletnike, pa se koristi organski i preko kreatora; (2) sadržaj 
 trgovci ne prave (rang liste, poređenja, cene kao stav, „miriše na ___") je prazan prostor;
 (3) reči kupca su „kopija", „traje", „kompliment", ne note.
 
-## 5.6 Šest nalaza koji definišu kupca
+## 5.6 Sedam nalaza koji definišu kupca
 
 ### Nalaz 1 · Parfem je u pretrazi dominantna beauty kategorija
 U Google pretrazi za Srbiju pojam „parfem" ima višestruko veći indeks od pojmova „šminka" i
@@ -623,8 +649,8 @@ nepoznat brend koji se ne može probati jeste. Pitanje „u kom formatu" važnij
 81% Gen Z-a preferira fizičku radnju (više od svih generacija), 92% dolazi da vidi, dodirne i
 proba, a u radnji koristi telefon umesto prodavca [izv. 104] *(VISOKA, američki uzorak)*. Motiv
 dolaska je potvrda, ne savet. U Srbiji samo 2% onlajn populacije potpuno veruje preporukama
-influencera (Social Serbia 2025, n=1.000, 12 do 65) [izv. 111] *(VISOKA)*. Zato je cilj
-influencer kampanje dolazak i testiranje, ne prodaja preko koda.
+influensera (Social Serbia 2025, n=1.000, 12 do 65) [izv. 111] *(VISOKA)*. Zato je cilj
+influenser kampanje dolazak i testiranje, ne prodaja preko koda.
 
 ### Nalaz 6 · Životni ciklus viralnog proizvoda ima tri oblika (izmereno na pretrazi u Srbiji)
 
@@ -647,6 +673,50 @@ Domaći dokaz da je trend stigao: indeks pretrage za Dior Sauvage pao je oko 65%
 srpski tinejdžer traži efekat po ceni koju može da plati, ne ime. Posledica: roba nabavljena na
 vrhu trenda postaje zaliha koja se ne prodaje; oko 15% nabavnog budžeta ostaje rezervisano za
 novo (v. 7.6).
+
+### Nalaz 7 · Mist je ulazna kategorija mlađe generacije, i domaći igrači su je već zauzeli
+
+Mist je lakši i jeftiniji od parfema: manje mirisnog ulja, kraće traje, prska se više puta.
+Zbog cene je to prvi proizvod koji mlađi kupac kupuje sam, i to je razlog zašto kategorija raste
+brže od parfema.
+
+**Šta se dešava globalno.**
+
+| Podatak | Vrednost | Izvor | Pouzdanost |
+|---|---|---|---|
+| Udeo body spreja i mista u ukupno prodatim komadima mirisa | porastao sa 7% na 12% za tri godine | Circana [izv. 421] | SREDNJA (podatak prenet iz sekundarnog izvora) |
+| Prodaja hair i body mista u prestige segmentu (SAD, 2024) | 474 miliona USD, rast 94% u odnosu na prethodnu godinu | Circana preko Glossy, 28.03.2025 [izv. 422] | VISOKA |
+| Prosečna cena mista u tom segmentu | oko 25 USD | Glossy [izv. 422] | VISOKA |
+| Udeo Sol de Janeira u kategoriji | pao sa 95% na oko 77%; rastu Ouai i Phlur | YipitData preko Glossy [izv. 422] | SREDNJA |
+
+Poslednji red je važniji nego što izgleda: kategorija prestaje da bude jedan brend i postaje
+polica sa više imena. To je tačno oblik police koji KLAUDS gradi.
+
+**Šta se dešava u Srbiji: kategorija se puni domaćim imenima, brzo.**
+
+| Proizvod | Cena | Gde se prodaje | Napomena |
+|---|---|---|---|
+| **Atina** („Strawberry Cream") i **Nika** („Cookies & Cream") Tošić, body mist | 1.529 RSD akcijski, 1.699 RSD redovno (oko 13,0 do 14,5 €) | sve Lilly parfimerije, od decembra 2025 [izv. 423, 424] | Ćerke Jelene Karleuše, obe maloletne u trenutku lansiranja. Gurmanski profili (jagoda i krem, keks i krem) su tačno ono što ova grupa traži |
+| **Jelena Karleuša**, „Sun" parfem (linija ima i mist) | parfem 5.999 RSD akcijski, 6.699 RSD redovno (oko 51 do 57 €) | isto [izv. 423, 424] | Skuplji nivo iste porodice proizvoda; mist iz iste linije je u asortimanskoj listi po ceni od oko 20 € (7.2, red 9) |
+| **BÉBÉ by Dunja** (Dunja Jovanić, @imfashionbabe), body & hair mist | 1.919 RSD akcijski, 2.399 RSD redovno (oko 16,4 do 20,4 €) | dm i sopstveni web shop [izv. 425, 426] | Brend domaće kreatorke, proizvodnja u Srbiji; pokriva i kosu, ne samo telo |
+
+*(VISOKA za cene i mesta prodaje, očitano 09.09.2026)*
+
+**Šta ovo znači za KLAUDS.** Tri stvari, sve tri menjaju plan:
+
+1. **Mist nije prazna kategorija i ne sme se planirati kao otkriće.** Uz Victoria's Secret, Sol
+   de Janeiro i Sabrina Carpenter mist, sada je drže i Lilly i dm, sa domaćim imenima koja ciljna
+   grupa poznaje. Zid sa mistovima bez razloga zašto baš tu neće prodavati.
+2. **Cenovna tačka je potvrđena, i to sa tri nezavisna proizvoda.** Domaći mist se prodaje u
+   zoni 13 do 20 €. To je tačno „drugi artikal u korpi" iz poglavlja 6 i potvrđuje ulaznu tačku
+   od 6 do 12 € kao ispravnu, jer KLAUDS mora da ima nešto ispod te zone.
+3. **Model saradnje sa kreatorom je već testiran na ovom tržištu.** Domaće ime plus mist plus
+   velika drogerija je obrazac koji radi. KLAUDS ga može ponoviti u sopstvenom private label
+   programu (v. 7.6), ali tek pošto se izmeri prodaja u prvoj sezoni, ne na dan otvaranja.
+
+**Preporuka:** mist ostaje u asortimanu i dobija svoj blok, ali sa obaveznom edukacijom
+(šta je mist, koliko traje, kako se sloji) i probanjem. Bez toga je to polica koju kupac već
+ima bliže kući i jeftinije.
 
 ## 5.7 Momci i poklon: dva segmenta koja traže posebnu pažnju
 
@@ -825,7 +895,7 @@ Belodore-u i ALMARI.
 **Kriterijumi za ulazak na listu:** (1) dokazana tražnja kod 15 do 19 ili Gen Z, u Srbiji ili
 globalno; (2) cena koja podržava korpu iz poglavlja 6; (3) dostupnost ili realna mogućnost
 nabavke; (4) ne preklapa se sa Belodore-om (71 brend, čist niche, ulazna cena 80 i više €);
-(5) ne kanibalizuje ALMARU.
+(5) tamo gde se preklapa sa ALMAROM, razlikuje se formatom (4.4).
 
 **Kako čitati listu.** Lista ima **26 redova i obuhvata približno 30 brendova**, jer pojedini
 redovi sadrže grupu brendova istog tipa. Uz svaki red je označeno šta je: **brend**, **linija**
@@ -862,7 +932,7 @@ dakle najisplativija roba koju može da stavi na policu.
 |---|---|---|---|
 | A. KLAUDS ih ne drži | ALMARA ostaje jedini nosilac orijentalnog bloka | KLAUDS ostaje bez najtraženije kategorije u Srbiji | ne |
 | **B. KLAUDS drži druge artikle i formate istih kuća** | ALMARA: klasične boce 100 ml i orijentalni narativ. KLAUDS: mini, setovi, mist i discovery formati istih kuća, pod pop / Gen Z narativom | Nizak: različit kupac, različit povod | **da** |
-| C. KLAUDS drži pun asortiman | Maksimalna prodaja u kratkom roku | Direktna kanibalizacija dva sopstvena objekta na 30 metara | ne |
+| C. KLAUDS drži pun asortiman | Maksimalna prodaja u kratkom roku | Dva sopstvena objekta na 30 metara prodaju istu robu u istom formatu | ne |
 
 Opcija B je i strateški doslednija: FACES i Ghawali rade isto (iste kuće, drugi format i drugi
 ritual [izv. 226 do 228]); Bath & Body Works u malom formatu ne smanjuje radnju nego sužava
@@ -1239,7 +1309,7 @@ naslov.** *(VISOKA)* To je test prevoda, prvi od tri testa u 9.4.
 
 *(VISOKA za prva dva, SREDNJA za treći)*
 
-**Izuzetak koji određuje strategiju: slengu se prašta kod influencera, ne kod korporativnih
+**Izuzetak koji određuje strategiju: slengu se prašta kod influensera, ne kod korporativnih
 naloga.** Otud podela posla: **kreator nosi jezik, KLAUDS nosi tvrdnju.** Kreator priča kako
 priča; KLAUDS na svom nalogu donosi ono što kreator nema: rang listu, poređenje, cenu, broj.
 
@@ -1371,16 +1441,26 @@ toplim svetlom (2700 K) pomera ka smeđoj. Provera pre projekta rasvete (**Odluk
 
 ## 9.6 Pet reči brenda
 
-> **PROBAJ · MOJE · KOMPLIMENT · ISKRENO · NOVO**
+> **PROBAJ · TOP 10 · MIRIŠE NA · KOLEKCIJA · NOVO**
 
 Nijedna nije parfemski termin, namerno, jer srpski kupac miris opisuje referencama, ne notama.
-Zajedno čine rečenicu koja je istovremeno tok kroz radnju i tok kroz loyalty: *probaj → nađi
-svoje → primete te → bez trika → i sledeći put ima novo.*
+Pravilo po kome su birane: svaka reč mora istovremeno da stoji kao natpis u radnji **i** kao
+rubrika u sadržaju. Reči koje su samo osećanje ili vrednost ne prolaze taj test, jer se ne mogu
+staviti ni na policu ni u kalendar objava.
 
-PROBAJ je izmereno prva: prvi predlog pretrage za `probaj` u Srbiji je „probaj parfem", ispred
-svih drugih značenja te reči. NOVO je potvrđeno kroz obrazac „novo u dm / lidlu / ikei" → „NOVO
-U KLAUDS". MOJE kroz „moja kolekcija parfema". *(VISOKA)* Pre upotrebe reči PROBAJ u sloganu ili
-domenu obavezna je provera žiga (9.3, tačka 12).
+| Reč | Šta je u radnji | Šta je u sadržaju | Odakle |
+|---|---|---|---|
+| **PROBAJ** | test stanica, discovery set, mini formati | stub 3 | Prvi predlog pretrage za „probaj" u Srbiji je „probaj parfem", ispred svih drugih značenja te reči [izv. 295] *(VISOKA)* |
+| **TOP 10** | zid sa rang listom, dve odvojene liste (devojke / momci), glasanje | stub 1 | Momci traže rang listu umesto preporuke (5.7); rang lista kao princip organizacije robe proverena na skali kod @cosme TOKYO [izv. 212] |
+| **MIRIŠE NA** | oznake na polici jezikom kupca („na čisto", „na kokos"), umesto mirisne piramide | stub 4 | Kupac miris opisuje referencama, ne notama (nalaz 3 u 5.6) *(VISOKA)* |
+| **KOLEKCIJA** | više formata istog mirisa, layering sto, loyalty | nalaz 4 u 5.6 | „Moja kolekcija parfema" je ustaljena konstrukcija u domaćoj pretrazi; Gen Z drži 5 do 12 mirisa umesto jednog [izv. 50, 95] *(VISOKA)* |
+| **NOVO** | nedeljna polica sa novim proizvodima | stub 5 | Obrazac „novo u dm / lidlu / ikei" → „NOVO U KLAUDS" *(VISOKA)* |
+
+Zajedno čine rečenicu koja je istovremeno tok kroz radnju i tok kroz sadržaj: *probaj → vidi šta
+je prvo → reci to svojim rečima → gradi kolekciju → svake nedelje ima novo.*
+
+Pre upotrebe reči PROBAJ u sloganu ili domenu obavezna je provera žiga (9.3, tačka 12). „TOP 10"
+kao natpis radi samo ako je lista istinita i onda kada ne odgovara nabavci (**Odluka 6**).
 
 **Reči koje se ne vezuju za brend:** „skupo", „za devojke", „za decu", „kao Belodore", „dupe".
 
@@ -1401,9 +1481,37 @@ od 11 slajdova, jedan proizvod po slajdu, krupna cena, broj glasova.
 nabavci** (**Odluka 6**).
 
 ### Stub 2 · „Koji parfem koristi ___?": domaća imena kao ulaz (oko 20%)
-Ton: razigrano i iskreno. Google predlozi pretrage sami izbacuju domaća imena (Ceca, Aleksandra
-Prijović, Jelena Karleuša, Nataša Bekvalac, Breskvica, Lepa Brena, Đoković, Rihanna) [izv. 295].
-Imena su domaća, i nijedan od analiziranih trgovaca taj format ne koristi sistematski *(VISOKA)*.
+Ton: razigrano i iskreno. Format je izmeren: Google predlozi pretrage sami dopunjuju „koji parfem
+koristi" domaćim imenima, i nijedan od analiziranih trgovaca ga ne koristi sistematski
+*(VISOKA)*.
+
+**Ali imena koja pretraga izbacuje nisu imena ciljne grupe.** Predlozi koje smo izmerili (Ceca,
+Lepa Brena, Jelena Karleuša, Nataša Bekvalac, Aleksandra Prijović, Đoković, Rihanna) [izv. 295]
+dolaze iz cele populacije koja pretražuje, a to je pretežno publika starija od 30 godina. Ako se
+ta imena preuzmu doslovno, KLAUDS u prvom mesecu komunicira estradom svojih roditelja. To ruši
+poziciju brenda pre nego što je uspostavljena.
+
+**Pravilo izbora imena, umesto liste iz pretrage:**
+
+| Uslov | Zašto |
+|---|---|
+| Osoba mora imati merljivu publiku uzrasta 15 do 24, ne samo veliki ukupan broj pratilaca | Doseg kod pogrešnog uzrasta ne donosi dolazak u radnju |
+| Prednost imaju imena iz sveta u kome ciljna grupa već provodi vreme (TikTok, muzika koja tamo živi, sport, kreatori) | Ime mora da bude prirodan ulaz, ne školski primer |
+| Prednost imaju osobe koje su same javno govorile o mirisima | Bez toga format ostaje samo pretpostavka |
+| Ime ne sme nositi tabloidnu temu koja se lepi za brend | Rizik za reputaciju je veći od dosega |
+
+**Ko među domaćim muzičkim imenima prolazi taj filter:** među analiziranima samo **Breskvica**
+(rođena 2001, medijski opisana kao „pevačica koju mladi obožavaju", najveći tinejdžerski doseg
+među domaćim pop imenima [izv. 407, 408]). I kod nje je četvrti uslov granični, jer je medijski
+izložena, pa ide uz proveru konteksta pre svake objave.
+
+**Zato težište ovog stuba nisu pevači nego kreatori iz 10.1.** Za uzrast 15 do 19 oni imaju istu
+ulogu kao pevači, a nose manji rizik i nižu cenu *(SREDNJA, procena publike po tipu sadržaja)*.
+Ista rečenica radi i sa njima: „koji parfem koristi [ime kreatora]".
+
+**Imena starije estrade se ne izbacuju iz plana, nego se sele u drugi kanal:** ona rade za
+odraslog kupca koji kupuje poklon (persona Snežana, 30% prometa), pre svega u decembru.
+
 Format: *„Ovo se najviše traži: koji parfem koristi [ime]. Ne znamo. Ali evo šta imamo najbliže
 tome, i koliko košta."* Nikad tvrdnja da neka osoba koristi konkretan parfem bez javnog izvora.
 **Ceo format traži pravnu potvrdu** (9.3, tačke 3 i 4).
@@ -1482,31 +1590,31 @@ Instagram je doseg, zajednica i arhiva. Nijedan ne zamenjuje drugi.
 | Web shop je uslov za nacionalni domet, ne dodatak | Ne pravi sopstvenu aplikaciju za otvaranje |
 | Mobile-first: sajt se projektuje prvo za telefon | Ne vezuj loyalty nivo isključivo za potrošnju |
 | Pouzeće, kartica i IPS (instant plaćanje) od prvog dana | Ne koristi popust kao osnovnu loyalty nagradu |
-| Filteri po izmerenim frazama kupaca | Ne meri influencere prodajom preko koda |
+| Filteri po izmerenim frazama kupaca | Ne meri influensere prodajom preko koda |
 | Segmentiraj bazu 15 do 17 / 18+ / odrasli od prvog dana | Ne planiraj plaćeni doseg prema 13 do 17 na TikToku |
 | Social commerce = live iz radnje i lansiranje na sopstvenom sajtu | Ne deli isti loyalty program sa Belodore-om; deli se sistem, ne program |
 | Prati Notino, NORMAL, Action i Fix Price kvartalno | |
 
 ---
 
-# 10. INFLUENCERI I AKTIVACIJE
+# 10. INFLUENSERI I AKTIVACIJE
 
-## 10.1 Deset konkretnih kandidata
+## 10.1 Konkretni kandidati
 
 **Kako je lista nastala.** Kandidati su birani prema četiri persone iz 5.8 i pet stubova
 sadržaja iz 9.7, iz domaćih i regionalnih pregleda kreatora (Modash, Favikon, Nova.rs, Danas,
 Manjgura, Mood Media) i iz medijskih izvora, a zatim su brojevi pratilaca očitani direktno sa
-TikTok i YouTube profila na dan 09.09.2026 [izv. 328 do 335, 383 do 403]. Brojevi sa
-Instagrama nisu mogli da se očitaju direktno i dolaze iz agregatora ili medija, pa su
-označeni kao SREDNJA ili NISKA.
+TikTok i YouTube profila na dan 09.09.2026 [izv. 328 do 335, 383 do 403, 409 do 420].
 
-**Šta lista ne sadrži.** Tačan engagement rate (odnos angažmana i pratilaca) nije javno
-dostupan bez plaćenog alata; kao grubu zamenu navodimo odnos ukupnog broja lajkova i pratilaca
-na TikToku (naša interpretacija, ne metrika platforme). Starost i geografija publike su procena
-prema tipu sadržaja (NISKA) osim gde je izvor naveden. **Cene i uslovi saradnje nisu javno
-dostupni ni za jednog kreatora u Srbiji i treba ih zatražiti direktno.** Pre svakog ugovora
-svako ime treba proveriti u tri koraka: aktuelnost naloga i stvarni angažman, brand safety
-(istorija objava, politika, skandali, saradnje sa konkurencijom), i cena i uslovi.
+**Kolona „angažman"** je odnos ukupnog broja lajkova i broja pratilaca na TikToku. Nije zvanična
+metrika platforme nego naš pokazatelj, koristan samo za poređenje kandidata međusobno: veći broj
+znači da nalog dobija više reakcija po pratiocu. Kod malih naloga taj odnos je po pravilu viši
+nego kod velikih, i to je razlog zašto se mikro kreatori i preporučuju.
+
+**Cene i uslovi saradnje nisu javno dostupni ni za jednog kreatora u Srbiji i treba ih zatražiti
+direktno.** Pre svakog ugovora svako ime treba proveriti u tri koraka: aktuelnost naloga i
+stvarni angažman, brand safety (istorija objava, politika, skandali, saradnje sa konkurencijom),
+i cena i uslovi.
 
 | # | Ime i nalog | Platforme | Pratioci na dan 09.09.2026 | Angažman (odnos lajkova i pratilaca, TikTok) | Publika (procena) | Zašto odgovara | Konflikt sa konkurencijom | Rizik za reputaciju | Preporučena uloga |
 |---|---|---|---|---|---|---|---|---|---|
@@ -1518,8 +1626,18 @@ svako ime treba proveriti u tri koraka: aktuelnost naloga i stvarni angažman, b
 | 6 | **Nadja Stanojević**, @nadja.stanojevic | TikTok, Instagram | TikTok 252.800 (profil, VISOKA) | oko 56 | Srbija, devojke 18 do 30 (SREDNJA) | Moda, beauty, putovanja; stariji deo primarne grupe i mlađi deo odraslih | Nije nađen | Nizak | Persona Teodora; discovery set i layering sto |
 | 7 | **Jedna Mara** (Marija Savić), @jedna.mara | TikTok, Instagram | TikTok 47.800 (profil, VISOKA) | oko 75 | Srbija i Hrvatska (SREDNJA) | Mikro kreatorka beauty i lifestyle; u Modash top 20 beauty Srbija; mali nalozi imaju veći stvaran angažman | Nije nađen | Nizak | Mikro saradnja: „probaj pre nego što kupiš" serijal |
 | 8 | **Tanja Believe**, @tanjabelieve | TikTok, YouTube | TikTok 150.400 (profil, VISOKA) | nije dostupno | Balkan, devojke (NISKA) | Nega kose, outfit i preporuke parfema (Lattafa); jedini nađeni ženski nalog sa redovnim parfemskim preporukama u pristupačnoj zoni | Nije nađen | Nizak | Mini i mist formati orijentalnih kuća (deo asortimana koji KLAUDS drži prema opciji B) |
-| 9 | **Tixyca** (Tijana Simić), @tixyca | TikTok, Instagram | TikTok 641.500 (profil, VISOKA) | oko 53 | Srbija, porodična publika (SREDNJA) | Porodica, humor, lifestyle; jedini kreator na listi koji dopire do roditelja koji kupuje poklon tinejdžeru | Nije nađen | Nizak | Persona Snežana; decembar, wishlist kartica, „siguran pogodak 15 do 19" polica |
-| 10 | **Teya Dora**, @iamteyadora | TikTok, Instagram | TikTok 135.700 (profil, VISOKA) · Instagram oko 101.000 (SREDNJA) | nije dostupno | Region i globalno, Gen Z (SREDNJA) | Muzička ličnost sa čistim imidžom; direktno hrani stub „koji parfem koristi ___" | Nije nađen | Nizak | Stub 2; realno druga godina ili barter; muzika kao nosilac tona |
+| 9 | **Elena Stojčevski**, @elena.stojcevski | TikTok, Instagram | TikTok 806.200 (profil, VISOKA) · Instagram oko 172.000 (SREDNJA) | oko 107 | Srbija (Novi Sad) i region, devojke 15 do 25 (SREDNJA) | Najveći TikTok nalog na listi; beauty i lifestyle; sama se predstavlja kao „starija sestra", što je tačno uloga koju KLAUDS traži prema personi Maja | Nije nađen | Nizak | Doseg za lansiranje; dolazak i probanje; foto-traka |
+| 10 | **Andrija Jović** („Andrija Jo"), @andrijajo | TikTok, Instagram | TikTok 648.000 (profil, VISOKA) | oko 42 | Srbija i region, mladi oba pola (SREDNJA) | Humor i lifestyle sa velikim dosegom; javno je u paru sa Leom Stanković (red 5), pa je moguć zajednički format koji pokriva i mušku i žensku publiku | Nije nađen | Nizak | Doseg za otvaranje; muška zona; zajednički format sa redom 5 |
+| 11 | **Andreja Andrejić** („Style of Andrew"), @styleofandrew | TikTok, Instagram | TikTok 240.700 (profil, VISOKA) | oko 88 | Srbija i region, momci i mladi muškarci 18 do 35 (NISKA) | Muški stil i nega; lekar po struci, pa ton stoji na objašnjenju umesto na prodaji; drugi domaći nalog na listi koji muškoj publici govori o izgledu | Nije nađen | Nizak | Persona Nikola; muška zona i muški TOP 10 |
+| 12 | **Ema Luketin**, @emaluketin | TikTok, Instagram | TikTok 205.800 (profil, VISOKA) | oko 57 | Hrvatska i region, devojke i žene 18 do 35 (NISKA) | Beauty kreatorka sa najvećim dosegom među regionalnim kandidatima | Vodi sopstveni beauty salon „Ema's Beauty Concept" u Zagrebu: sopstveni komercijalni interes u beauty kategoriji | Nizak | Druga faza i web shop u regionu |
+| 13 | **Marija (Mara) Ognjenović**, @maraognjenovic | TikTok, Instagram | TikTok 133.600 (profil, VISOKA) · Instagram oko 104.000 (SREDNJA) | oko 70 | Srbija, mladi oba pola, studentski uzrast (NISKA) | Nosi titulu „TikTokerka godine" i profil inženjerke; jedini kandidat čiji ton prirodno stoji uz stub „merili smo, nismo birali" (brojevi umesto prideva) | Nije nađen | Nizak | Stub 1; TOP 10 i rang liste; format „kako smo merili" |
+| 14 | **Teodora Garić**, @teodora.gariic | TikTok, Instagram | TikTok 99.100 (profil, VISOKA) · Instagram oko 43.000 (SREDNJA) | oko 132 | Srbija, devojke 15 do 25 (SREDNJA) | Format „oblačimo se zajedno" je tačno mesto na kome miris ulazi u dnevnu rutinu; visok odnos lajkova i pratilaca | Nije nađen | Nizak | Persona Maja; layering sto; serijal „miriše na ___" |
+| 15 | **Tea Manok**, @manoktea | TikTok, Instagram | TikTok 82.000 (profil, VISOKA) | oko 166 | Srbija i region, devojke 15 do 24 (SREDNJA) | Šminka i moda; drugi najviši odnos lajkova i pratilaca na listi; sadržaj studentskog uzrasta, uz gornji deo primarne grupe | Nije nađen | Nizak | Beauty blok; „probaj pre nego što kupiš" |
+| 16 | **Nadja Popivoda**, @popivodanadja | TikTok, Instagram | TikTok 61.800 (profil, VISOKA) | oko 83 | Srbija, devojke 18 do 30 (NISKA) | Već vodi serijalne rubrike sa numerisanim epizodama; KLAUDS-u treba serijal, ne pojedinačne objave | Nije nađen | Nizak | Nedeljni serijal „NOVO U KLAUDS"; „moja kolekcija" |
+| 17 | **Nataša Pejašinović**, @natasapejasinovic | TikTok, Instagram | TikTok 51.800 (profil, VISOKA) | oko 35 | Srbija, devojke i mlade žene 20 do 30 (NISKA) | Studentkinja medicine; ton objašnjenja, ne prodaje; pokriva edukativni deo (šta je body mist, zašto nos izdrži 3 do 4 mirisa) | Nije nađen | Nizak | Stub 4; edukativni format uz mist zid |
+| 18 | **Nina Gavran**, @ninagavran | TikTok, Instagram | TikTok 51.600 (profil, VISOKA) | oko 72 | Srbija, devojke 18 do 30 (NISKA) | Moda, beauty i lifestyle u jednom nalogu; veličina u kojoj saradnja ostaje jeftina a angažman visok | Nije nađen | Nizak | Mikro saradnja; discovery set |
+| 19 | **Marigold** (Nevena Živković), @\_marigold\_\_ | TikTok, Instagram | TikTok 43.800 (profil, VISOKA) | oko 178 (najviši na listi) | Srbija, devojke 15 do 28 (SREDNJA) | Kosa i beauty; najviši odnos lajkova i pratilaca među svim kandidatima; hair mist je deo mist bloka koji KLAUDS gradi | Već radi saradnje sa popust kodom za druge beauty brendove; traži proveru ekskluzivnosti | Nizak | Hair i body mist zid; serijal „miriše na ___" |
+| 20 | **Milica Sudžum**, @sudzumm | TikTok, Instagram | TikTok 23.900 (profil, VISOKA) | oko 142 | Srbija, devojke 15 do 25 (NISKA) | Mikro nalog sa vrlo visokim odnosom lajkova i pratilaca; tip saradnje sa najvećim stvarnim angažmanom po uloženom dinaru | Nije nađen | Nizak | Mikro saradnja; „probaj pre nego što kupiš" |
 
 **Rezervna lista, po tipu** (brojevi sa profila na dan 09.09.2026 gde je navedeno):
 
@@ -1532,15 +1650,14 @@ svako ime treba proveriti u tri koraka: aktuelnost naloga i stvarni angažman, b
 | Tinejdžerski lifestyle | **Una Kablar (Uki Q)**, @ukiqukiq | TikTok 1.700.000 (VISOKA) | Najveći doseg; sada gradi identitet mame; javni sukobi sa drugim kreatorima |
 | Tinejdžerski lifestyle | **Sergej Pajić**, @sergejpajicc | TikTok 1.100.000 (VISOKA) | Zabava i muzika; tinejdžerke |
 | Tinejdžerski lifestyle | **Barbi Afrika** (Barbara Milenković), @barbiafrika | TikTok 3.600.000 (VISOKA) | Najmlađa publika; delom ispod 15, što je ispod donje granice komunikacije |
-| Tinejdžerski lifestyle | **Sara Damjanović**, Instagram @saratkd7 | Instagram 800.000 i više (nova.rs, mart 2026, SREDNJA) | Raniji TikTok nalog obrisan; medijski intenzivna; proveriti pre kontakta |
 | Pop | **Breskvica** (Anđela Ignjatović), Instagram @brrrreskvica | Instagram oko 878.000 (SREDNJA) | Najveći tinejdžerski doseg među pop imenima i najskuplja; tabloidna izloženost |
-| Mama kreatorke | **Anastasija Đurić**, Instagram @anastasija · **Milica Novković** (micablogerica) | Instagram 183.000 · 145.000 (SREDNJA) | Materinstvo i lifestyle, žene 28 do 45 |
+| Mama kreatorke | **Anastasija Đurić**, Instagram @anastasija · **Milica Novković** (micablogerica) | Instagram 183.000 · 145.000 (SREDNJA) | Materinstvo i lifestyle, žene 28 do 45; nose personu Snežana i decembar |
 | Region | **Nezira Muhović**, @nezira_official (BiH) · **Marco Cuccurin**, @markomarkec3 (HR) | TikTok 273.800 · 677.300 (VISOKA) | Za drugu fazu i web shop u regionu |
 | Nano „moja kolekcija parfema" | Nina M. (YouTube 8.930) · Holokron (YouTube 473) · Teodora Terzić, @terzicteodora (TikTok 11.000) | VISOKA | Format „moja kolekcija" u Srbiji postoji samo na nano nivou |
 
 **Dva nalaza koja menjaju plan saradnje:**
 
-1. **Lilly već koristi parfemske influencere u istoj zgradi.** Jeremy Fragrance, najpoznatiji
+1. **Lilly već koristi parfemske influensere u istoj zgradi.** Jeremy Fragrance, najpoznatiji
    svetski parfemski kreator, bio je 30.06.2026. gost Lilly-ja u TC Galerija na promociji
    Manoard kolekcije [izv. 367]. Lilly je istog leta otvorio i „Lilly Studio" na Adi Ciganliji
    (maj do septembar 2026), letnji prostor sa dermatolozima, DJ nastupima i edukacijom o zaštiti
@@ -1548,10 +1665,13 @@ svako ime treba proveriti u tri koraka: aktuelnost naloga i stvarni angažman, b
 2. **dm već radi sa tinejdžerskim kreatorom za muške parfeme** (Aleksa Todorović). Ekskluzivnost
    i period mirovanja prema dm-u treba ugovoriti.
 
-**Najslabije pokrivena kategorija** je „devojka 17 do 24, moja kolekcija parfema": u Srbiji ne
-postoji vidljiv nalog tog tipa sa merljivim dosegom, sadržaj je rasut po opštim beauty
-nalozima. Predlog: 10 do 15 mikro naloga se bira ručno kroz oznake #parfemisrbija,
-#kolekcijaparfema i oznake lokacije Sephore, Lilly-ja i dm-a u Galeriji.
+**Najslabije pokrivena kategorija** je „devojka 17 do 24 koja redovno pravi sadržaj baš o
+parfemima". Kreatorki tog uzrasta ima i one su na listi (redovi 14, 15, 18, 19, 20), ali njihov
+sadržaj je moda, šminka i kosa; parfem je u njemu gost, ne rubrika. Nalog koji taj format vodi
+sistematski i sa merljivim dosegom nije nađen. To je prilika, ne prepreka: KLAUDS tu rubriku
+može da otvori sa postojećim kreatorkama umesto da traži gotov nalog. Uz to: 10 do 15 mikro
+naloga se bira ručno kroz oznake #parfemisrbija, #kolekcijaparfema i oznake lokacije Sephore,
+Lilly-ja i dm-a u Galeriji.
 
 ## 10.2 Deset tipova kreatora i podela budžeta
 
@@ -1560,15 +1680,15 @@ Konkretna imena iz 10.1 raspoređena su po tipovima; tip određuje ulogu, ne vel
 | # | Tip | Pratioci | Uloga | Ko sa liste |
 |---|---|---|---|---|
 | 1 | Regionalni parfemski autoritet | 100K i više | Legitimiše nov lanac; kredibilitet prema odraslom kupcu | Čovek Parfem; rezerva Parfemičar |
-| 2 | Mikro „moja kolekcija", devojka 17 do 24 | 5K do 50K | Persona Maja; najveći stvarni angažman | Jedna Mara plus 10 do 15 mikro naloga ručno |
-| 3 | Muški fragrance recenzent 18 do 26 | 10K do 300K | Persona Nikola; najređi na domaćoj sceni i zato najvredniji | Aleksa Todorović; rezerva Mateo Elez, Pavo Krajinović |
+| 2 | Mikro „moja kolekcija", devojka 17 do 24 | 5K do 100K | Persona Maja; najveći stvarni angažman | Jedna Mara, Teodora Garić, Tea Manok, Nina Gavran, Marigold, Milica Sudžum plus 10 do 15 mikro naloga ručno |
+| 3 | Muški fragrance recenzent 18 do 26 | 10K do 300K | Persona Nikola; najređi na domaćoj sceni i zato najvredniji | Aleksa Todorović, Style of Andrew; rezerva Mateo Elez, Pavo Krajinović |
 | 4 | „Kopija" recenzent | 5K do 80K | Segment ima sopstvene kreatore, ne samo kupce | Nije nađen nezavisan kreator; sadržaj prave tipovi 1 i 3 |
-| 5 | Beauty i skincare za 15 do 19 | 20K do 900K | Nosi beauty blok (20% asortimana) | Tashlicious, Sara Stanković, Lea Stanković, Tanja Believe |
-| 6 | Tinejdžerski lifestyle | 100K do 3M | Dolazak u zgradu, ne prodaja | Nadja Stanojević; rezerva Sergej Pajić, Una Kablar |
-| 7 | Muzičko ili pop ime | 100K do 1M | Stub „koji parfem koristi ___" | Teya Dora; rezerva Breskvica |
-| 8 | Mama ili roditelj kreator 30 do 45 | 100K do 650K | Persona Snežana; decembar | Tixyca; rezerva Anastasija Đurić, micablogerica |
+| 5 | Beauty i skincare za 15 do 19 | 20K do 900K | Nosi beauty blok (20% asortimana) | Tashlicious, Sara Stanković, Lea Stanković, Tanja Believe, Marigold (kosa i mist), Nataša Pejašinović (edukativni deo) |
+| 6 | Tinejdžerski lifestyle | 100K do 3M | Dolazak u zgradu, ne prodaja | Elena Stojčevski, Andrija Jo, Nadja Stanojević; rezerva Sergej Pajić, Una Kablar |
+| 7 | Muzičko ili pop ime | 100K do 1M | Stub „koji parfem koristi ___" | Breskvica, uz proveru medijskog konteksta; realno druga godina ili barter |
+| 8 | Mama ili roditelj kreator 30 do 45 | 100K do 650K | Persona Snežana; decembar | Anastasija Đurić, micablogerica |
 | 9 | Nano kreator iz same radnje (osoblje i kupci) | ispod 5K, ali njih 30 i više | Najjeftiniji i najodrživiji tip; loyalty mehanika, ne medijski zakup | Nema imena po definiciji |
-| 10 | Regionalni kreator (HR, BiH, CG) | 20K do 700K | Web shop u regionu; druga faza | Nezira Muhović, Marco Cuccurin |
+| 10 | Regionalni kreator (HR, BiH, CG) | 20K do 700K | Web shop u regionu; druga faza | Ema Luketin (HR), Nezira Muhović (BiH), Marco Cuccurin (HR) |
 
 **Tri pravila za plan:**
 1. **Podela budžeta prvih šest meseci:** oko 20% tip 1 · oko 50% tipovi 2, 3 i 5 (10 do 15 mikro
@@ -1576,7 +1696,7 @@ Konkretna imena iz 10.1 raspoređena su po tipovima; tip određuje ulogu, ne vel
    samo ako budžet to podnese posle ova tri; oni donose doseg, ne dolazak. Tip 10 je druga faza.
 2. **Kreator nosi svoj jezik, ne naš.** Nikad se ne daje gotov tekst sa brend naloga.
 3. **Merenje: broj dolazaka i testiranja po kreatoru** (kod na foto-traci ili discovery setu, ne
-   popust kod). U Srbiji samo 2% onlajn populacije potpuno veruje preporukama influencera
+   popust kod). U Srbiji samo 2% onlajn populacije potpuno veruje preporukama influensera
    [izv. 111], pa je cilj dolazak i probanje, ne prodaja preko koda. Plaćeni kreatori nose prvih
    6 do 8 nedelja; posle toga nose kupci ili niko.
 
@@ -1764,7 +1884,7 @@ projekciju za Srbiju.
 | 7 | **Udeo muških kupaca u prometu**, sa oko 25% ka 30% za 12 meseci | Segment raste brže od ženskog; najveći rizik je da mu vizuelni jezik radnje ne odgovara |
 | 8 | **Članovi loyalty programa i udeo aktivnih po brojaču „aktivnost"** | Ako aktivnost stoji a raste samo potrošnja, program je pogrešno postavljen |
 | 9 | **Broj recenzija na srpskom jeziku** | Sadržaj koji danas skoro ne postoji, a neophodan je; najjeftinije se dobija kroz brojač aktivnosti |
-| 10 | **Dolasci i testiranja po kreatoru** | Ne prodaja preko koda; u Srbiji samo 2% potpuno veruje preporukama influencera [izv. 111] |
+| 10 | **Dolasci i testiranja po kreatoru** | Ne prodaja preko koda; u Srbiji samo 2% potpuno veruje preporukama influensera [izv. 111] |
 | 11 | **Udeo web shopa u prometu i geografija porudžbina** | Jedini način da se izmeri koliko KLAUDS stvarno dopire van Beograda |
 | 12 | **Utrošak testera u dinarima** | Ako se prekorači, to je dokaz da PROBAJ radi. Problem je ako je nula |
 
@@ -1856,7 +1976,7 @@ zaustaviti kampanju.
 | **Social Serbia 2025, pun izveštaj** (oko 500 €) | Struktura korisnika mreža po uzrastu | Pre planiranja plaćenog dosega |
 | **Alat za verifikaciju kreatora** (engagement, starosna struktura publike, brand safety) | Pretvara listu kandidata u proverenu listu | Pre bilo kakvog kontakta sa kreatorima |
 
-## 14.5 Predlog nastavka saradnje
+## 14.5 Dalji koraci
 
 1. **Radionica sa klijentom** na osam odluka: pola dana, izlaz su odluke, ne zapisnik.
 2. **Brand book i vizuelni identitet** na osnovu poglavlja 9 i dokumenta za dizajn tim.
@@ -1891,7 +2011,7 @@ Ovde su izdvojeni izvori koji nose najvažnije brojke i zaključke.
 | dm: Sabrina Carpenter body mist 10,6 do 12,8 € | dm.rs katalog | 336 |
 | Tinejdžerska potrošnja na miris u SAD (Piper Sandler) | Piper Sandler 49. i 50. talas; WWD | 337, 338, 70 |
 | Gen Z i kolekcija mirisa, mini formati, TikTok kao kanal otkrivanja | WWD, Glossy | 104, 105, 108 |
-| Poverenje u influencere u Srbiji 2%; rast TikToka | Social Serbia 2025 (Netokracija, Pioniri) | 111, 112 |
+| Poverenje u influensere u Srbiji 2%; rast TikToka | Social Serbia 2025 (Netokracija, Pioniri) | 111, 112 |
 | Doseg kanala u Srbiji (Instagram 3,40 mil., TikTok 2,98 mil.) | DataReportal, Digital 2026: Serbia | 314 |
 | Jezik kupca: „miriše na", reference umesto nota, sedam konstrukcija | Google predlozi pretrage (hl=sr, gl=rs) | 50, 97 do 100, 295 |
 | Oblici viralnog ciklusa (Sabrina Carpenter, Lattafa, Armaf, Sauvage, Manoard) | Google Trends geo=RS | 89 do 96 |
@@ -1964,9 +2084,6 @@ Registar sadrži sve izvore korišćene u analizi, po redosledu upisa. Kolona �
 u kome je izvor prvi put korišćen: 2A konkurencija · 2B rang liste i brendovi · 3 Gen Z kupac ·
 4 iskustvo u prodavnici · 5 globalni primeri · 6 ton i jezik · 7 sinteza · 8 interna provera ·
 9 dopuna za ovu verziju (09.09.2026).
-
-Napomena o pristupu: deo linkova (posebno ka lilly.rs, Instagramu i TikToku) otvara se samo u
-pregledaču, jer sajtovi blokiraju automatsko čitanje.
 
 | # | Naziv izvora | Link | Faza |
 |---|---|---|---|
@@ -2373,7 +2490,30 @@ pregledaču, jer sajtovi blokiraju automatsko čitanje.
 | 401 | Manjgura: Top 10 influencera u Hrvatskoj | https://manjgura.hr/blog/top-10-influencera-u-hrvatskoj-tiktok-instagram-youtube-i-linkedin | 9 |
 | 402 | Danas: Top 10 TikTok profila u Srbiji | https://www.danas.rs/zivot/top-10-tiktok-profila-u-srbiji/ | 9 |
 | 403 | Yumama (Mondo): Najpoznatije mame influenserke u Srbiji | https://yumama.mondo.rs/vesti/poznati/a45116/Najpoznatije-mame-influenserke-u-Srbiji.html | 9 |
+| 404 | Almara (DP Lux Group): O nama | https://almara.rs/o-nama/ | 9 |
+| 405 | Almara: lista brendova | https://almara.rs/almara-brendovi/ | 9 |
+| 406 | Instagram: @almara.rs | https://www.instagram.com/almara.rs/ | 9 |
+| 407 | City Magazine (Danas): Ko je Breskvica, pevačica koju mladi obožavaju | https://citymagazine.danas.rs/popkultura/muzika/ko-je-breskvica-pevacica-koju-mladi-obozavaju-pevace-za-docek-nove-godine-ispred-skupstine/ | 9 |
+| 408 | Wikipedia: Breskvica (Anđela Ignjatović) | https://en.wikipedia.org/wiki/Breskvica | 9 |
+| 409 | TikTok: @elena.stojcevski (Elena Stojčevski) | https://www.tiktok.com/@elena.stojcevski | 9 |
+| 410 | TikTok: @andrijajo (Andrija Jović) | https://www.tiktok.com/@andrijajo | 9 |
+| 411 | TikTok: @styleofandrew (Andreja Andrejić) | https://www.tiktok.com/@styleofandrew | 9 |
+| 412 | TikTok: @emaluketin (Ema Luketin) | https://www.tiktok.com/@emaluketin | 9 |
+| 413 | TikTok: @maraognjenovic (Marija Ognjenović) | https://www.tiktok.com/@maraognjenovic | 9 |
+| 414 | TikTok: @teodora.gariic (Teodora Garić) | https://www.tiktok.com/@teodora.gariic | 9 |
+| 415 | TikTok: @manoktea (Tea Manok) | https://www.tiktok.com/@manoktea | 9 |
+| 416 | TikTok: @popivodanadja (Nadja Popivoda) | https://www.tiktok.com/@popivodanadja | 9 |
+| 417 | TikTok: @natasapejasinovic (Nataša Pejašinović) | https://www.tiktok.com/@natasapejasinovic | 9 |
+| 418 | TikTok: @ninagavran (Nina Gavran) | https://www.tiktok.com/@ninagavran | 9 |
+| 419 | TikTok: @_marigold__ (Marigold, Nevena Živković) | https://www.tiktok.com/@_marigold__ | 9 |
+| 420 | TikTok: @sudzumm (Milica Sudžum) | https://www.tiktok.com/@sudzumm | 9 |
+| 421 | Market.us: Body Mist Market (Circana: udeo body spreja i mista 7% → 12%) | https://market.us/report/global-body-mist-market/ | 9 |
+| 422 | Glossy: Inside the Gen Z-Gen Alpha hair perfume and body mist explosion (Circana, YipitData), 28.03.2025 | https://www.glossy.co/pop/inside-the-gen-z-gen-alpha-hair-perfume-and-body-mist-explosion/ | 9 |
+| 423 | Telegraf: Koliko koštaju parfemi koje su izbacile Atina i Nika Tošić, 17.12.2025 | https://www.telegraf.rs/jetset/vesti-jetset/4233798-pogledajte-koliko-kostaju-parfemi-koje-su-izbacile-atina-i-nika-tosic-biznis-spremale-mesecima-sve-krile | 9 |
+| 424 | TikTok: @karleusaofficial, najava prodaje mistova „Nika", „Atina" i „Sun" u Lilly parfimerijama | https://www.tiktok.com/@karleusaofficial/video/7584718554902187319 | 9 |
+| 425 | dm Srbija: BÉBÉ by Dunja Jovanić body & hair mist B.loom, 120 ml | https://www.dm.rs/p/d/3143917/bebe-by-dunja-jovanic-body-hair-mist-mirisni-sprej-za-kosu-i-telo-b-loom | 9 |
+| 426 | BÉBÉ by Dunja: body mist B.loom (cena i opis) | https://bebebydunja.rs/products/bebe-body-003-mist-bloom | 9 |
 
 ---
 
-*Kraj dokumenta. Pripremio: VladsDigital za DP Lux Group · 09.09.2026 · verzija 2.0*
+*Kraj dokumenta. Pripremio: VladsDigital za DP Lux Group · 09.09.2026 · verzija 2.1*

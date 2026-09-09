@@ -10,7 +10,7 @@ Svaki slajd: naslov, 3 do 5 tačaka, bez sitnog teksta. Brojke su iste kao u dok
 **KLAUDS · Analiza tržišta i strateške preporuke**
 Verzija za donošenje ključnih odluka · VladsDigital za DP Lux Group · 09.09.2026
 
-Govorna napomena: desk research, bez ankete; 403 izvora; sve što je procena označeno je kao
+Govorna napomena: desk research, bez ankete; 426 izvora; sve što je procena označeno je kao
 hipoteza.
 
 ## Slajd 2 · Šta smo radili
@@ -99,10 +99,13 @@ hipoteza.
 - Pravilo jezika: engleski za ime stvari, nikad za osećanje; „ti" uvek; cena bez prideva.
 - Zakon o oglašavanju: kompliment se ne obećava, meri se; 14 tačaka za advokata.
 - Paleta: KLAUDS VIOLET na svemu što izlazi iz radnje; muška zona tamna sa zelenim signalom.
-- Pet reči: PROBAJ · MOJE · KOMPLIMENT · ISKRENO · NOVO.
-- Deset konkretnih kreatora sa brojevima pratilaca (Čovek Parfem, Aleksa Todorović,
-  Tashlicious, Sara i Lea Stanković, Nadja Stanojević, Jedna Mara, Tanja Believe, Tixyca,
-  Teya Dora); cilj je dolazak i probanje, ne prodaja preko koda.
+- Pet reči: PROBAJ · TOP 10 · MIRIŠE NA · KOLEKCIJA · NOVO. Svaka je i natpis u radnji i
+  rubrika u sadržaju.
+- Dvadeset konkretnih kreatora sa brojevima pratilaca očitanim sa profila (Čovek Parfem,
+  Aleksa Todorović, Tashlicious, Sara i Lea Stanković, Nadja Stanojević, Jedna Mara,
+  Tanja Believe, Elena Stojčevski, Andrija Jo, Style of Andrew, Ema Luketin,
+  Mara Ognjenović, Teodora Garić, Tea Manok, Nadja Popivoda, Nataša Pejašinović,
+  Nina Gavran, Marigold, Milica Sudžum); cilj je dolazak i probanje, ne prodaja preko koda.
 - Vizual: paleta.
 
 ## Slajd 12 · Osam odluka i plan

@@ -1,10 +1,10 @@
-# INTERNO · Šta treba da znaš pre slanja verzije 2.0 (09.09.2026)
+# INTERNO · Šta treba da znaš pre slanja verzije 2.1 (09.09.2026)
 
 Ovaj fajl NE ide klijentu. Ovde je sve što je urađeno po feedbacku, šta nije moglo, šta je
 ostalo otvoreno i šta još treba poslati. Klijentska verzija je:
 
 - `03-isporuke/KLAUDS_analiza_trzista_i_preporuke.md` (Markdown, 15 poglavlja + prilog)
-- `03-isporuke/KLAUDS_analiza_trzista_i_preporuke.pdf` (60 strana A4, brendiran, sa sadržajem i brojevima strana)
+- `03-isporuke/KLAUDS_analiza_trzista_i_preporuke.pdf` (64 strane A4, brendiran, sa sadržajem i brojevima strana)
 - `03-isporuke/slike/` (6 grafika koje su ubačene u dokument)
 
 Stara verzija 1.0 (`KLAUDS_finalni_izvestaj.md` / `.pdf`) i stara prezentacija
@@ -25,7 +25,7 @@ prezentaciju treba napraviti iz njih ako ide klijentu.
 | 3 | Executive summary na 1,5 strane sa „1." | Jedna strana, sedam pasusa + četiri odluke; provereno u PDF-u | 2 |
 | 4 | Sve „Ispravka u odnosu na Fazu 2A", „ranije verzije", HTTP 403, prazan render, Reddit JSON, putanje `01-faze/` | Uklonjeno. Interna kontrola pomenuta jednom rečenicom u 3.1 | 3 |
 | 5 | „Doslovni korpus TikTok komentara nije prikupljen, platforme blokirale" | Poglavlje 5.5 „Šta pokazuje TikTok" sa onim što JESTE analizirano (doseg, trgovci, viralni brendovi, jezik, ograničenja bez tehničkih detalja) | 5.5 |
-| 6 | 5 parfimerija → 3 + Almara objašnjenje greške | Tri kategorije: eksterna konkurencija, drugi formati DP Lux, rizik interne kanibalizacije | 4.4 |
+| 6 | 5 parfimerija → 3 + Almara objašnjenje greške | Tri kategorije: eksterna konkurencija, drugi formati DP Lux, preklapanje unutar grupe | 4.4 |
 | 7 | 35 pitanja + [ČEKA ODGOVOR] oznake po tekstu | Osam jedinstveno označenih odluka (Odluka 1–8) na jednoj strani; u tekstu se referišu kao „Odluka N" | 13 |
 | 8 | „kuriranje", „brend narativ", „brzina rotacije", „accessible trend", „power wall", „decompression zone", „gimmick lista" | Zamenjeno običnim rečima; AOV, SKU, UGC, CRM, IPS objašnjeni pri prvom pojavljivanju | svuda |
 | 9 | „73,5% ciljne grupe živi van Beograda, dostupni isključivo preko web shopa", „web shop je pola posla" | „73,5% upisanih srednjoškolaca pohađa školu van Beogradskog regiona; web shop je uslov za nacionalni domet" | 5.1 |
@@ -36,14 +36,39 @@ prezentaciju treba napraviti iz njih ako ide klijentu.
 | 14 | „Konkurencija nisu parfimerije"; „poklon ispod 30 € ne postoji"; „nijedan kanal u Srbiji"; „Srbija je skuplja od EU"; „Phlur najtraženiji u Srbiji"; „80/20 nezavisno potvrđen" | Sve preformulisano po tvom tekstu; Phlur = prvi na uredničkoj listi Lepa i srećna (to je stvarni izvor, ne Trends); rang liste označene kao indikativne sa periodom i signalima | 4.4, 4.5, 5.6, 6.1, 7.3, 15.2 |
 | 15 | „Rang lista igrača" (Belodore treći) | „Pregled ključnih tržišnih igrača" sa 7 kolona; napomena da dm i Jasmin nisu uporedivi u istoj bazi | 4.2 |
 | 16 | „26 brendova"; 800–1.200 SKU vs. „700 bolje od 1.100" | „26 redova, približno 30 brendova", svaki red označen (brend / linija / proizvod / grupa / tip); jedan raspon 700–900 SKU; ino cene označene sa „ino" | 7.1, 7.5 |
-| 17 | Top 10 influensera = 10 tipova, 3 bez imena | **10 konkretnih kandidata + 12 rezervnih**, brojevi pratilaca očitani sa TikTok/YouTube profila 09.09.2026, sa konfliktom, rizikom, ulogom; napomena da cene treba tražiti | 10.1 |
+| 17 | Top 10 influensera = 10 tipova, 3 bez imena | **20 konkretnih kandidata + rezervna lista**, brojevi pratilaca očitani sa TikTok/YouTube profila 09.09.2026, sa konfliktom, rizikom, ulogom; napomena da cene treba tražiti | 10.1 |
 | 18 | Pravni deo: 3 stavke za advokata | 14 tačaka; svaka konstrukcija označena kao „predlog koji traži pravnu potvrdu" | 9.3 |
 | 19 | NORMAL „ušao" u Rumuniju 30.09.2026; „lista brendova najranije mart 2026"; plan T−20 uz otvaranje u oktobru | NORMAL: najava 01.09.2026, otvaranje 30.09. i 02.10.2026 (proverio agent u rumunskim izvorima); Action HR otvoren 11.03.2026, SI 18.09.2026; Flying Tiger ulazi u Srbiju; plan u dva scenarija (A: oktobar osnovna verzija, B: pun koncept kraj feb/mart 2027) sa rokovima odluka | 4.6, 7.6, 11 |
 | 20 | „Tri stavke ~7 sati" (stvarno 13,5 h) | Tri prioritetne provere 6,5–7 h; ostale odvojeno sa svojim satima | 14.2, 14.3 |
-| 21 | „VISOKA" bez citata | [izv. N] uz sve ključne brojke; tabela „ključni izvori po tvrdnji"; 403 izvora u registru (68 novih) | 15.1, Prilog A |
+| 21 | „VISOKA" bez citata | [izv. N] uz sve ključne brojke; tabela „ključni izvori po tvrdnji"; 426 izvora u registru | 15.1, Prilog A |
 | 22 | Samo HEX kodovi; nema grafika | 6 grafika: paleta sa uzorcima boja, mapa cena vs. iskustvo, cenovna lestvica, scenariji korpe, ciljna grupa, trgovci na mrežama; persone kao uporedna tabela; odluke na jednoj strani | 9.5, 6, 5, 4.5, 5.8, 13 |
 | 23 | „Klijent je dao protivrečne odgovore", „najveći problem su odluke klijenta", „jedina moguća odbrana", „najskuplja moguća greška" | Neutralne formulacije po tvom tekstu | 1.2, 6.2, 8.8, 13 |
 | 24 | Lilly skoro nepomenut, dm izdvojen | Lilly dobio sopstvenu sekciju 4.3 (lista brendova 919 stavki, cene viralnih parfema, loyalty, Jeremy Fragrance u Galeriji, Lilly Studio); anegdota o Marijinoj sestri je potvrđena podacima (prvi predlog pretrage za „parfemi" je „parfemi lilly"; „sol de janeiro lilly" drugi predlog) | 4.2, 4.3, 7 |
+
+## 1a. Izmene u verziji 2.1 (Markov feedback na PDF)
+
+| # | Šta je traženo | Šta je urađeno | Gde |
+|---|---|---|---|
+| A | Skloniti ključne reči sa naslovne strane | Uklonjen red PROBAJ · MOJE · KOMPLIMENT · ISKRENO · NOVO sa korica | korice |
+| B | Izbaciti reč „kanibalizacija" svuda | Zamenjena sa „preklapanje" na svih 6 mesta | 2, 4.2, 4.4, 7.1, 7.2 |
+| C | Proveriti da li je ALMARA zaista toliki rizik | Istraženo. Nije. Dodat blok sa četiri nalaza (drugačija publika i koncept, preklapanje na 3–4 kuće od 26, ista roba je ionako u dm-u i Lilly-ju, ALMARA nema web shop i ima ~13.000 IG pratilaca). Rizik u exec summary-ju zamenjen cenovnim pritiskom dm-a i Lilly-ja | 2, 4.4 |
+| D | Grafikon sa isečenom legendom | Legenda grafikona ciljne grupe premeštena ispod prstena. Popravljena i druga dva grafikona sa tekstom uz ivicu (mapa pozicioniranja, cenovna lestvica) | 5.1, 6.1, 6.3 |
+| E | Preispitati pevačice u stubu 2 | Objašnjeno da imena iz Google predloga dolaze iz cele populacije (publika 30+), dodato pravilo izbora imena sa četiri uslova, težište prebačeno na kreatore; od pevačica ostaje samo Breskvica, uz ogradu | 9.7, stub 2 |
+| F | Izbaciti napomene o tome šta nismo mogli da izmerimo | Uklonjen pasus „Šta lista ne sadrži" (engagement rate, plaćeni alat, Instagram brojevi); kolona „angažman" sada je objašnjena kao naš pokazatelj za poređenje, bez izvinjavanja. Uklonjena i napomena iz registra izvora da sajtovi blokiraju automatsko čitanje | 10.1, Prilog A |
+| G | Pet reči brenda nemaju smisla | Novi set: PROBAJ · TOP 10 · MIRIŠE NA · KOLEKCIJA · NOVO. Pravilo: svaka reč mora da bude i natpis u radnji i rubrika u sadržaju. Usklađeno i u `input-za-dizajn-tim.md` i u slajdovima | 9.6 |
+| H | Prazna strana kod poglavlja 10 | Uzrok nađen: prelom strane je bio prikovan za naslov „10.1 Deset konkretnih kandidata", pa je naslov poglavlja ostajao sam. Pravilo uklonjeno | pipeline |
+| I | Izbaciti Tixyca, TeyaDora, Sara Damjanović | Uklonjeni sa liste i iz tabele tipova. Persona Snežana sada je na Anastasiji Đurić i micablogerici, pop ime na Breskvici | 10.1, 10.2 |
+| J | Dodati 12 influensera | Svih 12 provereno direktno sa TikTok profila 09.09.2026 i dodato u tabelu sa brojevima, ulogom i konfliktima | 10.1 |
+| K | „Predlog nastavka saradnje" preformulisati | Sada „Dalji koraci" | 14.5 |
+| L | Istražiti mist trend (Tošić, Bebe by Dunja) | Nov nalaz 7 u poglavlju 5.6: globalni rast kategorije (Circana) plus domaći igrači koji su je zauzeli (mistovi Atine i Nike Tošić u svim Lilly parfimerijama 1.529–1.699 RSD; BÉBÉ by Dunja u dm-u 1.919–2.399 RSD) i tri posledice za KLAUDS | 5.6, 2 |
+| M | „Influenceri" → „Influenseri" | Zamenjeno u celom dokumentu osim u nazivima stranih izvora u registru | svuda |
+
+**Uz to, dve greške u prelomu koje su se videle u PDF-u verzije 2.0:** kurziv koji prelomi red
+nije bio prepoznat (videle su se zvezdice), a red koji počinje brojem i tačkom („1.529 RSD")
+Markdown je čitao kao numerisanu listu. Oboje popravljeno.
+
+**Skripte za PDF** su prebačene iz privremenog foldera u `sabloni/pdfgen/` sa uputstvom, da se
+više ne gube između sesija.
 
 ## 2. Šta sam uradio, a šta NISAM mogao
 
@@ -119,7 +144,7 @@ posebna pitanja.
 - [ ] Propratni email je prepisan (`05-klijent/propratni-email.md`) da odgovara v2. Proveri termine i oslovljavanje.
 - [ ] Prezentacija: `KLAUDS_prezentacija_slajdovi_v2.md` je usklađena; HTML verziju treba regenerisati pre sastanka (stara ima pogrešne brojke).
 - [ ] `input-za-dizajn-tim.md` nije menjan. Sadrži stare izraze („kuriranje" verovatno ne, ali proveri) i staru napomenu o Lilly bojama. Proći 15 min pre slanja ili ne slati u ovom krugu.
-- [ ] Registar izvora (`04-izvori/registar-izvora.md`) je dopunjen na 403 stavke; ako šalješ registar kao poseban fajl, šalji ovaj.
+- [ ] Registar izvora (`04-izvori/registar-izvora.md`) je dopunjen na 426 stavki; ako šalješ registar kao poseban fajl, šalji ovaj.
 - [ ] Ako hoćeš .docx: pandoc nije instaliran (`brew install pandoc`), pa je isporuka PDF + MD.
 
 ## 7. Šta je ostalo za nas (posle slanja, ako klijent hoće)

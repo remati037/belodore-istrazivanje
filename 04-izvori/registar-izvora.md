@@ -413,3 +413,26 @@ finansijski izveštaj · forum/community · procena.
 | 401 | Manjgura — Top 10 influencera u Hrvatskoj | https://manjgura.hr/blog/top-10-influencera-u-hrvatskoj-tiktok-instagram-youtube-i-linkedin | 9 | Marco Cuccurin, Mirta Miler brojevi | 09.09.2026 | agencija |
 | 402 | Danas — Top 10 TikTok profila u Srbiji | https://www.danas.rs/zivot/top-10-tiktok-profila-u-srbiji/ | 9 | Sergej Pajić, Una Kablar, Barbi Afrika kao najveći domaći TikTok nalozi | 09.09.2026 | medij |
 | 403 | Yumama (Mondo) — Najpoznatije mame influenserke u Srbiji | https://yumama.mondo.rs/vesti/poznati/a45116/Najpoznatije-mame-influenserke-u-Srbiji.html | 9 | Anastasija Đurić, Milica Novković (micablogerica) | 09.09.2026 | medij |
+| 404 | Almara (DP Lux Group) — O nama | https://almara.rs/o-nama/ | 9 | Deset orijentalnih brendova; pozicija „Essence of the Orient" | 09.09.2026 | zvanicni sajt |
+| 405 | Almara — lista brendova | https://almara.rs/almara-brendovi/ | 9 | Afnan, Ajmal, Al Haramain, Armaf, Flavia, Khadlaj, Lattafa, Paris Corner, Swiss Arabian, Zimaya | 09.09.2026 | zvanicni sajt |
+| 406 | Instagram — @almara.rs | https://www.instagram.com/almara.rs/ | 9 | oko 13.000 pratilaca (agregator) | 09.09.2026 | drustvena mreza |
+| 407 | City Magazine (Danas) — Ko je Breskvica, pevačica koju mladi obožavaju | https://citymagazine.danas.rs/popkultura/muzika/ko-je-breskvica-pevacica-koju-mladi-obozavaju-pevace-za-docek-nove-godine-ispred-skupstine/ | 9 | Medijska potvrda da je publika mlada | 09.09.2026 | medij |
+| 408 | Wikipedia — Breskvica (Anđela Ignjatović) | https://en.wikipedia.org/wiki/Breskvica | 9 | Rođena 18.05.2001; debi 2019 | 09.09.2026 | enciklopedija |
+| 409 | TikTok — @elena.stojcevski (Elena Stojčevski) | https://www.tiktok.com/@elena.stojcevski | 9 | 806.200 pratilaca, 86,2M lajkova | 09.09.2026 | drustvena mreza |
+| 410 | TikTok — @andrijajo (Andrija Jović) | https://www.tiktok.com/@andrijajo | 9 | 648.000 pratilaca, 27,2M lajkova | 09.09.2026 | drustvena mreza |
+| 411 | TikTok — @styleofandrew (Andreja Andrejić) | https://www.tiktok.com/@styleofandrew | 9 | 240.700 pratilaca, 21,1M lajkova | 09.09.2026 | drustvena mreza |
+| 412 | TikTok — @emaluketin (Ema Luketin) | https://www.tiktok.com/@emaluketin | 9 | 205.800 pratilaca, 11,8M lajkova; sopstveni salon Ema's Beauty Concept, Zagreb | 09.09.2026 | drustvena mreza |
+| 413 | TikTok — @maraognjenovic (Marija Ognjenović) | https://www.tiktok.com/@maraognjenovic | 9 | 133.600 pratilaca, 9,3M lajkova; „TikTokerka godine" | 09.09.2026 | drustvena mreza |
+| 414 | TikTok — @teodora.gariic (Teodora Garić) | https://www.tiktok.com/@teodora.gariic | 9 | 99.100 pratilaca, 13,1M lajkova | 09.09.2026 | drustvena mreza |
+| 415 | TikTok — @manoktea (Tea Manok) | https://www.tiktok.com/@manoktea | 9 | 82.000 pratilaca, 13,6M lajkova | 09.09.2026 | drustvena mreza |
+| 416 | TikTok — @popivodanadja (Nadja Popivoda) | https://www.tiktok.com/@popivodanadja | 9 | 61.800 pratilaca, 5,1M lajkova | 09.09.2026 | drustvena mreza |
+| 417 | TikTok — @natasapejasinovic (Nataša Pejašinović) | https://www.tiktok.com/@natasapejasinovic | 9 | 51.800 pratilaca, 1,8M lajkova | 09.09.2026 | drustvena mreza |
+| 418 | TikTok — @ninagavran (Nina Gavran) | https://www.tiktok.com/@ninagavran | 9 | 51.600 pratilaca, 3,7M lajkova | 09.09.2026 | drustvena mreza |
+| 419 | TikTok — @_marigold__ (Marigold, Nevena Živković) | https://www.tiktok.com/@_marigold__ | 9 | 43.800 pratilaca, 7,8M lajkova; kosa i beauty | 09.09.2026 | drustvena mreza |
+| 420 | TikTok — @sudzumm (Milica Sudžum) | https://www.tiktok.com/@sudzumm | 9 | 23.900 pratilaca, 3,4M lajkova | 09.09.2026 | drustvena mreza |
+| 421 | Market.us — Body Mist Market (prenosi Circana) | https://market.us/report/global-body-mist-market/ | 9 | Udeo body spreja i mista u komadima mirisa 7% → 12% za tri godine | 09.09.2026 | analiticka kuca |
+| 422 | Glossy — Inside the Gen Z-Gen Alpha hair perfume and body mist explosion (28.03.2025) | https://www.glossy.co/pop/inside-the-gen-z-gen-alpha-hair-perfume-and-body-mist-explosion/ | 9 | Circana: 474M USD u 2024, +94%; prosecna cena 25 USD; YipitData: Sol de Janeiro 95% → 77% | 09.09.2026 | medij |
+| 423 | Telegraf — Koliko koštaju parfemi koje su izbacile Atina i Nika Tošić (17.12.2025) | https://www.telegraf.rs/jetset/vesti-jetset/4233798-pogledajte-koliko-kostaju-parfemi-koje-su-izbacile-atina-i-nika-tosic-biznis-spremale-mesecima-sve-krile | 9 | Mist 1.529 / 1.699 RSD; parfem „Sun" 5.999 / 6.699 RSD | 09.09.2026 | medij |
+| 424 | TikTok — @karleusaofficial, najava prodaje u Lilly parfimerijama | https://www.tiktok.com/@karleusaofficial/video/7584718554902187319 | 9 | „Nika", „Atina" i „Sun" u svim Lilly parfimerijama | 09.09.2026 | drustvena mreza |
+| 425 | dm Srbija — BÉBÉ by Dunja Jovanić body & hair mist B.loom, 120 ml | https://www.dm.rs/p/d/3143917/bebe-by-dunja-jovanic-body-hair-mist-mirisni-sprej-za-kosu-i-telo-b-loom | 9 | Brend domace kreatorke u dm asortimanu | 09.09.2026 | trgovac |
+| 426 | BÉBÉ by Dunja — body mist B.loom (cena i opis) | https://bebebydunja.rs/products/bebe-body-003-mist-bloom | 9 | 1.919,20 RSD akcijski, 2.399 RSD redovno | 09.09.2026 | brend |

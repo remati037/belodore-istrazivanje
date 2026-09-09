@@ -1,6 +1,6 @@
 # KLAUDS · status projekta
 
-Poslednje ažuriranje: 08.09.2026 (završene Faze 2A–9; ispravke iz Faze 8 unete u FINALNI IZVEŠTAJ, ali NE i u pojedinačne fazne dokumente)
+Poslednje ažuriranje: 09.09.2026 (verzija 2.1 klijentske isporuke: ALMARA preispitana, mist trend dodat, lista influensera proširena na 20 imena, pet reči brenda zamenjeno)
 Rok isporuke klijentu: **11.09.2026** · cilj: isporuka 09–10.09.
 
 ## Faze
@@ -16,7 +16,7 @@ Rok isporuke klijentu: **11.09.2026** · cilj: isporuka 09–10.09.
 | 6 | Ton i jezik brenda (posle faze 3) | ✅ završeno | `01-faze/klauds_faza6_ton.md` |
 | 7 | Strateška sinteza (posle 2A–6) | ✅ završeno | `01-faze/klauds_faza7_sinteza.md` |
 | 8 | Kontrola kvaliteta / fact-check | ✅ završeno | `01-faze/klauds_faza8_qa.md` |
-| 9 | Finalni izveštaj + prezentacija + email | ✅ završeno | `03-isporuke/KLAUDS_analiza_trzista_i_preporuke.md` (v2) |
+| 9 | Finalni izveštaj + prezentacija + email | ✅ završeno | `03-isporuke/KLAUDS_analiza_trzista_i_preporuke.md` (v2.1, PDF 64 strane) |
 
 Legenda: ⬜ nije počelo · 🟡 u toku · ✅ završeno
 
